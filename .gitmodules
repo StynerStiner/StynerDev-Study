@@ -148,8 +148,8 @@
 [submodule "01-AI-and-Agents/GenAI_Agents"]
 	path = 01-AI-and-Agents/GenAI_Agents
 	url = https://github.com/StynerStiner/GenAI_Agents.git
-[submodule "01-AI-and-Agents/go-cursor-help"]
-	path = 01-AI-and-Agents/go-cursor-help
+[submodule "08-Cybersecurity-and-OSINT/go-cursor-help"]
+	path = 08-Cybersecurity-and-OSINT/go-cursor-help
 	url = https://github.com/StynerStiner/go-cursor-help.git
 [submodule "01-AI-and-Agents/gorilla"]
 	path = 01-AI-and-Agents/gorilla

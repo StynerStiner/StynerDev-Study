@@ -1,6 +1,6 @@
 # AI & Agents
 
-121 projects. Click a folder above to open the project.
+120 projects. Click a folder above to open the project.
 
 | Project | What it is |
 |---|---|
@@ -55,7 +55,6 @@
 | [gen.nvim](https://github.com/StynerStiner/gen.nvim) | Neovim plugin to generate text using LLMs with customizable prompts |
 | [genai-stack](https://github.com/StynerStiner/genai-stack) | Langchain + Docker + Neo4j + Ollama |
 | [GenAI_Agents](https://github.com/StynerStiner/GenAI_Agents) | This repository provides tutorials and implementations for various Generative AI Agent techniques, f |
-| [go-cursor-help](https://github.com/StynerStiner/go-cursor-help) | 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts |
 | [gorilla](https://github.com/StynerStiner/gorilla) | Gorilla: An API store for LLMs |
 | [gpt-3](https://github.com/StynerStiner/gpt-3) | GPT-3: Language Models are Few-Shot Learners |
 | [gpt-pilot](https://github.com/StynerStiner/gpt-pilot) | The first real AI developer |
