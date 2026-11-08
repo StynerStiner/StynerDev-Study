@@ -1,1641 +1,1641 @@
 [submodule "01-AI-and-Agents/A2A"]
 	path = 01-AI-and-Agents/A2A
-	url = https://github.com/Styner2023/A2A.git
+	url = https://github.com/StynerStiner/A2A.git
 [submodule "01-AI-and-Agents/agent-os"]
 	path = 01-AI-and-Agents/agent-os
-	url = https://github.com/Styner2023/agent-os.git
+	url = https://github.com/StynerStiner/agent-os.git
 [submodule "01-AI-and-Agents/Ager-autonomous-coding-agent"]
 	path = 01-AI-and-Agents/Ager-autonomous-coding-agent
-	url = https://github.com/Styner2023/Ager-autonomous-coding-agent.git
+	url = https://github.com/StynerStiner/Ager-autonomous-coding-agent.git
 [submodule "01-AI-and-Agents/ai-agents-masterclass"]
 	path = 01-AI-and-Agents/ai-agents-masterclass
-	url = https://github.com/Styner2023/ai-agents-masterclass.git
+	url = https://github.com/StynerStiner/ai-agents-masterclass.git
 [submodule "01-AI-and-Agents/ai-workshop-code"]
 	path = 01-AI-and-Agents/ai-workshop-code
-	url = https://github.com/Styner2023/ai-workshop-code.git
+	url = https://github.com/StynerStiner/ai-workshop-code.git
 [submodule "01-AI-and-Agents/alloy-voice-assistant"]
 	path = 01-AI-and-Agents/alloy-voice-assistant
-	url = https://github.com/Styner2023/alloy-voice-assistant.git
+	url = https://github.com/StynerStiner/alloy-voice-assistant.git
 [submodule "01-AI-and-Agents/anything-llm"]
 	path = 01-AI-and-Agents/anything-llm
-	url = https://github.com/Styner2023/anything-llm.git
+	url = https://github.com/StynerStiner/anything-llm.git
 [submodule "01-AI-and-Agents/Archon"]
 	path = 01-AI-and-Agents/Archon
-	url = https://github.com/Styner2023/Archon.git
+	url = https://github.com/StynerStiner/Archon.git
 [submodule "01-AI-and-Agents/AutoCoder"]
 	path = 01-AI-and-Agents/AutoCoder
-	url = https://github.com/Styner2023/AutoCoder.git
+	url = https://github.com/StynerStiner/AutoCoder.git
 [submodule "01-AI-and-Agents/awesome-ai-agents"]
 	path = 01-AI-and-Agents/awesome-ai-agents
-	url = https://github.com/Styner2023/awesome-ai-agents.git
+	url = https://github.com/StynerStiner/awesome-ai-agents.git
 [submodule "01-AI-and-Agents/awesome-chatgpt-prompts"]
 	path = 01-AI-and-Agents/awesome-chatgpt-prompts
-	url = https://github.com/Styner2023/awesome-chatgpt-prompts.git
+	url = https://github.com/StynerStiner/awesome-chatgpt-prompts.git
 [submodule "01-AI-and-Agents/awesome-llm-agents"]
 	path = 01-AI-and-Agents/awesome-llm-agents
-	url = https://github.com/Styner2023/awesome-llm-agents.git
+	url = https://github.com/StynerStiner/awesome-llm-agents.git
 [submodule "01-AI-and-Agents/babel-llm"]
 	path = 01-AI-and-Agents/babel-llm
-	url = https://github.com/Styner2023/babel-llm.git
+	url = https://github.com/StynerStiner/babel-llm.git
 [submodule "01-AI-and-Agents/bolt.new-any-llm"]
 	path = 01-AI-and-Agents/bolt.new-any-llm
-	url = https://github.com/Styner2023/bolt.new-any-llm.git
+	url = https://github.com/StynerStiner/bolt.new-any-llm.git
 [submodule "01-AI-and-Agents/brightdata-mcp"]
 	path = 01-AI-and-Agents/brightdata-mcp
-	url = https://github.com/Styner2023/brightdata-mcp.git
+	url = https://github.com/StynerStiner/brightdata-mcp.git
 [submodule "01-AI-and-Agents/camel"]
 	path = 01-AI-and-Agents/camel
-	url = https://github.com/Styner2023/camel.git
+	url = https://github.com/StynerStiner/camel.git
 [submodule "01-AI-and-Agents/ChatGPT"]
 	path = 01-AI-and-Agents/ChatGPT
-	url = https://github.com/Styner2023/ChatGPT.git
+	url = https://github.com/StynerStiner/ChatGPT.git
 [submodule "01-AI-and-Agents/ChatGPT-Data-Science-Prompts"]
 	path = 01-AI-and-Agents/ChatGPT-Data-Science-Prompts
-	url = https://github.com/Styner2023/ChatGPT-Data-Science-Prompts.git
+	url = https://github.com/StynerStiner/ChatGPT-Data-Science-Prompts.git
 [submodule "01-AI-and-Agents/Chit-Chat-Real_time_chat_app"]
 	path = 01-AI-and-Agents/Chit-Chat-Real_time_chat_app
-	url = https://github.com/Styner2023/Chit-Chat-Real_time_chat_app.git
+	url = https://github.com/StynerStiner/Chit-Chat-Real_time_chat_app.git
 [submodule "01-AI-and-Agents/claude-code"]
 	path = 01-AI-and-Agents/claude-code
-	url = https://github.com/Styner2023/claude-code.git
+	url = https://github.com/StynerStiner/claude-code.git
 [submodule "01-AI-and-Agents/claude-code-l"]
 	path = 01-AI-and-Agents/claude-code-l
-	url = https://github.com/Styner2023/claude-code-l.git
+	url = https://github.com/StynerStiner/claude-code-l.git
 [submodule "01-AI-and-Agents/claude-code-prompts"]
 	path = 01-AI-and-Agents/claude-code-prompts
-	url = https://github.com/Styner2023/claude-code-prompts.git
+	url = https://github.com/StynerStiner/claude-code-prompts.git
 [submodule "01-AI-and-Agents/claude-code-source"]
 	path = 01-AI-and-Agents/claude-code-source
-	url = https://github.com/Styner2023/claude-code-source.git
+	url = https://github.com/StynerStiner/claude-code-source.git
 [submodule "01-AI-and-Agents/claude-code-source-code"]
 	path = 01-AI-and-Agents/claude-code-source-code
-	url = https://github.com/Styner2023/claude-code-source-code.git
+	url = https://github.com/StynerStiner/claude-code-source-code.git
 [submodule "01-AI-and-Agents/claude-dev"]
 	path = 01-AI-and-Agents/claude-dev
-	url = https://github.com/Styner2023/claude-dev.git
+	url = https://github.com/StynerStiner/claude-dev.git
 [submodule "01-AI-and-Agents/claude-engineer"]
 	path = 01-AI-and-Agents/claude-engineer
-	url = https://github.com/Styner2023/claude-engineer.git
+	url = https://github.com/StynerStiner/claude-engineer.git
 [submodule "01-AI-and-Agents/CodeGeeX4"]
 	path = 01-AI-and-Agents/CodeGeeX4
-	url = https://github.com/Styner2023/CodeGeeX4.git
+	url = https://github.com/StynerStiner/CodeGeeX4.git
 [submodule "01-AI-and-Agents/codellama"]
 	path = 01-AI-and-Agents/codellama
-	url = https://github.com/Styner2023/codellama.git
+	url = https://github.com/StynerStiner/codellama.git
 [submodule "01-AI-and-Agents/composio"]
 	path = 01-AI-and-Agents/composio
-	url = https://github.com/Styner2023/composio.git
+	url = https://github.com/StynerStiner/composio.git
 [submodule "01-AI-and-Agents/continue"]
 	path = 01-AI-and-Agents/continue
-	url = https://github.com/Styner2023/continue.git
+	url = https://github.com/StynerStiner/continue.git
 [submodule "01-AI-and-Agents/copilot-workspace-user-manual"]
 	path = 01-AI-and-Agents/copilot-workspace-user-manual
-	url = https://github.com/Styner2023/copilot-workspace-user-manual.git
+	url = https://github.com/StynerStiner/copilot-workspace-user-manual.git
 [submodule "01-AI-and-Agents/CopilotKit"]
 	path = 01-AI-and-Agents/CopilotKit
-	url = https://github.com/Styner2023/CopilotKit.git
+	url = https://github.com/StynerStiner/CopilotKit.git
 [submodule "01-AI-and-Agents/crewAI"]
 	path = 01-AI-and-Agents/crewAI
-	url = https://github.com/Styner2023/crewAI.git
+	url = https://github.com/StynerStiner/crewAI.git
 [submodule "01-AI-and-Agents/csm"]
 	path = 01-AI-and-Agents/csm
-	url = https://github.com/Styner2023/csm.git
+	url = https://github.com/StynerStiner/csm.git
 [submodule "01-AI-and-Agents/cursor"]
 	path = 01-AI-and-Agents/cursor
-	url = https://github.com/Styner2023/cursor.git
+	url = https://github.com/StynerStiner/cursor.git
 [submodule "01-AI-and-Agents/custom_websearch_agent"]
 	path = 01-AI-and-Agents/custom_websearch_agent
-	url = https://github.com/Styner2023/custom_websearch_agent.git
+	url = https://github.com/StynerStiner/custom_websearch_agent.git
 [submodule "01-AI-and-Agents/DeepSeek-Coder"]
 	path = 01-AI-and-Agents/DeepSeek-Coder
-	url = https://github.com/Styner2023/DeepSeek-Coder.git
+	url = https://github.com/StynerStiner/DeepSeek-Coder.git
 [submodule "01-AI-and-Agents/DeepSeek-V3"]
 	path = 01-AI-and-Agents/DeepSeek-V3
-	url = https://github.com/Styner2023/DeepSeek-V3.git
+	url = https://github.com/StynerStiner/DeepSeek-V3.git
 [submodule "01-AI-and-Agents/DesktopCommanderMCP"]
 	path = 01-AI-and-Agents/DesktopCommanderMCP
-	url = https://github.com/Styner2023/DesktopCommanderMCP.git
+	url = https://github.com/StynerStiner/DesktopCommanderMCP.git
 [submodule "01-AI-and-Agents/doc"]
 	path = 01-AI-and-Agents/doc
-	url = https://github.com/Styner2023/doc.git
+	url = https://github.com/StynerStiner/doc.git
 [submodule "01-AI-and-Agents/docs"]
 	path = 01-AI-and-Agents/docs
-	url = https://github.com/Styner2023/docs.git
+	url = https://github.com/StynerStiner/docs.git
 [submodule "01-AI-and-Agents/easy-local-rag"]
 	path = 01-AI-and-Agents/easy-local-rag
-	url = https://github.com/Styner2023/easy-local-rag.git
+	url = https://github.com/StynerStiner/easy-local-rag.git
 [submodule "01-AI-and-Agents/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro"]
 	path = 01-AI-and-Agents/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro
-	url = https://github.com/Styner2023/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro.git
+	url = https://github.com/StynerStiner/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro.git
 [submodule "01-AI-and-Agents/fabric"]
 	path = 01-AI-and-Agents/fabric
-	url = https://github.com/Styner2023/fabric.git
+	url = https://github.com/StynerStiner/fabric.git
 [submodule "01-AI-and-Agents/FinRobot"]
 	path = 01-AI-and-Agents/FinRobot
-	url = https://github.com/Styner2023/FinRobot.git
+	url = https://github.com/StynerStiner/FinRobot.git
 [submodule "01-AI-and-Agents/firecrawl"]
 	path = 01-AI-and-Agents/firecrawl
-	url = https://github.com/Styner2023/firecrawl.git
+	url = https://github.com/StynerStiner/firecrawl.git
 [submodule "01-AI-and-Agents/gemini-ui-to-code"]
 	path = 01-AI-and-Agents/gemini-ui-to-code
-	url = https://github.com/Styner2023/gemini-ui-to-code.git
+	url = https://github.com/StynerStiner/gemini-ui-to-code.git
 [submodule "01-AI-and-Agents/gen.nvim"]
 	path = 01-AI-and-Agents/gen.nvim
-	url = https://github.com/Styner2023/gen.nvim.git
+	url = https://github.com/StynerStiner/gen.nvim.git
 [submodule "01-AI-and-Agents/genai-stack"]
 	path = 01-AI-and-Agents/genai-stack
-	url = https://github.com/Styner2023/genai-stack.git
+	url = https://github.com/StynerStiner/genai-stack.git
 [submodule "01-AI-and-Agents/GenAI_Agents"]
 	path = 01-AI-and-Agents/GenAI_Agents
-	url = https://github.com/Styner2023/GenAI_Agents.git
+	url = https://github.com/StynerStiner/GenAI_Agents.git
 [submodule "01-AI-and-Agents/go-cursor-help"]
 	path = 01-AI-and-Agents/go-cursor-help
-	url = https://github.com/Styner2023/go-cursor-help.git
+	url = https://github.com/StynerStiner/go-cursor-help.git
 [submodule "01-AI-and-Agents/gorilla"]
 	path = 01-AI-and-Agents/gorilla
-	url = https://github.com/Styner2023/gorilla.git
+	url = https://github.com/StynerStiner/gorilla.git
 [submodule "01-AI-and-Agents/gpt-3"]
 	path = 01-AI-and-Agents/gpt-3
-	url = https://github.com/Styner2023/gpt-3.git
+	url = https://github.com/StynerStiner/gpt-3.git
 [submodule "01-AI-and-Agents/gpt-pilot"]
 	path = 01-AI-and-Agents/gpt-pilot
-	url = https://github.com/Styner2023/gpt-pilot.git
+	url = https://github.com/StynerStiner/gpt-pilot.git
 [submodule "01-AI-and-Agents/gpt-researcher"]
 	path = 01-AI-and-Agents/gpt-researcher
-	url = https://github.com/Styner2023/gpt-researcher.git
+	url = https://github.com/StynerStiner/gpt-researcher.git
 [submodule "01-AI-and-Agents/gpt2_chatbot"]
 	path = 01-AI-and-Agents/gpt2_chatbot
-	url = https://github.com/Styner2023/gpt2_chatbot.git
+	url = https://github.com/StynerStiner/gpt2_chatbot.git
 [submodule "01-AI-and-Agents/gpt4-unlimited-phin"]
 	path = 01-AI-and-Agents/gpt4-unlimited-phin
-	url = https://github.com/Styner2023/gpt4-unlimited-phin.git
+	url = https://github.com/StynerStiner/gpt4-unlimited-phin.git
 [submodule "01-AI-and-Agents/gpt4free"]
 	path = 01-AI-and-Agents/gpt4free
-	url = https://github.com/Styner2023/gpt4free.git
+	url = https://github.com/StynerStiner/gpt4free.git
 [submodule "01-AI-and-Agents/gpt4o-scraping"]
 	path = 01-AI-and-Agents/gpt4o-scraping
-	url = https://github.com/Styner2023/gpt4o-scraping.git
+	url = https://github.com/StynerStiner/gpt4o-scraping.git
 [submodule "01-AI-and-Agents/gptlint"]
 	path = 01-AI-and-Agents/gptlint
-	url = https://github.com/Styner2023/gptlint.git
+	url = https://github.com/StynerStiner/gptlint.git
 [submodule "01-AI-and-Agents/gptme"]
 	path = 01-AI-and-Agents/gptme
-	url = https://github.com/Styner2023/gptme.git
+	url = https://github.com/StynerStiner/gptme.git
 [submodule "01-AI-and-Agents/graphrag"]
 	path = 01-AI-and-Agents/graphrag
-	url = https://github.com/Styner2023/graphrag.git
+	url = https://github.com/StynerStiner/graphrag.git
 [submodule "01-AI-and-Agents/groq-appgen"]
 	path = 01-AI-and-Agents/groq-appgen
-	url = https://github.com/Styner2023/groq-appgen.git
+	url = https://github.com/StynerStiner/groq-appgen.git
 [submodule "01-AI-and-Agents/InstantCoder"]
 	path = 01-AI-and-Agents/InstantCoder
-	url = https://github.com/Styner2023/InstantCoder.git
+	url = https://github.com/StynerStiner/InstantCoder.git
 [submodule "01-AI-and-Agents/lancedb"]
 	path = 01-AI-and-Agents/lancedb
-	url = https://github.com/Styner2023/lancedb.git
+	url = https://github.com/StynerStiner/lancedb.git
 [submodule "01-AI-and-Agents/langchain"]
 	path = 01-AI-and-Agents/langchain
-	url = https://github.com/Styner2023/langchain.git
+	url = https://github.com/StynerStiner/langchain.git
 [submodule "01-AI-and-Agents/langchain-tutorials"]
 	path = 01-AI-and-Agents/langchain-tutorials
-	url = https://github.com/Styner2023/langchain-tutorials.git
+	url = https://github.com/StynerStiner/langchain-tutorials.git
 [submodule "01-AI-and-Agents/LibreChat"]
 	path = 01-AI-and-Agents/LibreChat
-	url = https://github.com/Styner2023/LibreChat.git
+	url = https://github.com/StynerStiner/LibreChat.git
 [submodule "01-AI-and-Agents/LLaVA"]
 	path = 01-AI-and-Agents/LLaVA
-	url = https://github.com/Styner2023/LLaVA.git
+	url = https://github.com/StynerStiner/LLaVA.git
 [submodule "01-AI-and-Agents/llm-tutorials"]
 	path = 01-AI-and-Agents/llm-tutorials
-	url = https://github.com/Styner2023/llm-tutorials.git
+	url = https://github.com/StynerStiner/llm-tutorials.git
 [submodule "01-AI-and-Agents/LLM101n"]
 	path = 01-AI-and-Agents/LLM101n
-	url = https://github.com/Styner2023/LLM101n.git
+	url = https://github.com/StynerStiner/LLM101n.git
 [submodule "01-AI-and-Agents/lobe-chat"]
 	path = 01-AI-and-Agents/lobe-chat
-	url = https://github.com/Styner2023/lobe-chat.git
+	url = https://github.com/StynerStiner/lobe-chat.git
 [submodule "01-AI-and-Agents/MaaAssistantArknights"]
 	path = 01-AI-and-Agents/MaaAssistantArknights
-	url = https://github.com/Styner2023/MaaAssistantArknights.git
+	url = https://github.com/StynerStiner/MaaAssistantArknights.git
 [submodule "01-AI-and-Agents/maestro"]
 	path = 01-AI-and-Agents/maestro
-	url = https://github.com/Styner2023/maestro.git
+	url = https://github.com/StynerStiner/maestro.git
 [submodule "01-AI-and-Agents/Magma"]
 	path = 01-AI-and-Agents/Magma
-	url = https://github.com/Styner2023/Magma.git
+	url = https://github.com/StynerStiner/Magma.git
 [submodule "01-AI-and-Agents/matmulfreellm"]
 	path = 01-AI-and-Agents/matmulfreellm
-	url = https://github.com/Styner2023/matmulfreellm.git
+	url = https://github.com/StynerStiner/matmulfreellm.git
 [submodule "01-AI-and-Agents/mentat"]
 	path = 01-AI-and-Agents/mentat
-	url = https://github.com/Styner2023/mentat.git
+	url = https://github.com/StynerStiner/mentat.git
 [submodule "01-AI-and-Agents/mern-auth-chat"]
 	path = 01-AI-and-Agents/mern-auth-chat
-	url = https://github.com/Styner2023/mern-auth-chat.git
+	url = https://github.com/StynerStiner/mern-auth-chat.git
 [submodule "01-AI-and-Agents/MiniCPM"]
 	path = 01-AI-and-Agents/MiniCPM
-	url = https://github.com/Styner2023/MiniCPM.git
+	url = https://github.com/StynerStiner/MiniCPM.git
 [submodule "01-AI-and-Agents/MiniCPM-V"]
 	path = 01-AI-and-Agents/MiniCPM-V
-	url = https://github.com/Styner2023/MiniCPM-V.git
+	url = https://github.com/StynerStiner/MiniCPM-V.git
 [submodule "01-AI-and-Agents/MiroFish"]
 	path = 01-AI-and-Agents/MiroFish
-	url = https://github.com/Styner2023/MiroFish.git
+	url = https://github.com/StynerStiner/MiroFish.git
 [submodule "01-AI-and-Agents/ollama"]
 	path = 01-AI-and-Agents/ollama
-	url = https://github.com/Styner2023/ollama.git
+	url = https://github.com/StynerStiner/ollama.git
 [submodule "01-AI-and-Agents/Open-Assistant"]
 	path = 01-AI-and-Agents/Open-Assistant
-	url = https://github.com/Styner2023/Open-Assistant.git
+	url = https://github.com/StynerStiner/Open-Assistant.git
 [submodule "01-AI-and-Agents/open-interpreter"]
 	path = 01-AI-and-Agents/open-interpreter
-	url = https://github.com/Styner2023/open-interpreter.git
+	url = https://github.com/StynerStiner/open-interpreter.git
 [submodule "01-AI-and-Agents/open-llms"]
 	path = 01-AI-and-Agents/open-llms
-	url = https://github.com/Styner2023/open-llms.git
+	url = https://github.com/StynerStiner/open-llms.git
 [submodule "01-AI-and-Agents/open-webui"]
 	path = 01-AI-and-Agents/open-webui
-	url = https://github.com/Styner2023/open-webui.git
+	url = https://github.com/StynerStiner/open-webui.git
 [submodule "01-AI-and-Agents/openai-python"]
 	path = 01-AI-and-Agents/openai-python
-	url = https://github.com/Styner2023/openai-python.git
+	url = https://github.com/StynerStiner/openai-python.git
 [submodule "01-AI-and-Agents/openai-realtime-console"]
 	path = 01-AI-and-Agents/openai-realtime-console
-	url = https://github.com/Styner2023/openai-realtime-console.git
+	url = https://github.com/StynerStiner/openai-realtime-console.git
 [submodule "01-AI-and-Agents/openclaw"]
 	path = 01-AI-and-Agents/openclaw
-	url = https://github.com/Styner2023/openclaw.git
+	url = https://github.com/StynerStiner/openclaw.git
 [submodule "01-AI-and-Agents/OpenCopilot"]
 	path = 01-AI-and-Agents/OpenCopilot
-	url = https://github.com/Styner2023/OpenCopilot.git
+	url = https://github.com/StynerStiner/OpenCopilot.git
 [submodule "01-AI-and-Agents/OpenDevin"]
 	path = 01-AI-and-Agents/OpenDevin
-	url = https://github.com/Styner2023/OpenDevin.git
+	url = https://github.com/StynerStiner/OpenDevin.git
 [submodule "01-AI-and-Agents/OpenLLM"]
 	path = 01-AI-and-Agents/OpenLLM
-	url = https://github.com/Styner2023/OpenLLM.git
+	url = https://github.com/StynerStiner/OpenLLM.git
 [submodule "01-AI-and-Agents/OpenMAIC"]
 	path = 01-AI-and-Agents/OpenMAIC
-	url = https://github.com/Styner2023/OpenMAIC.git
+	url = https://github.com/StynerStiner/OpenMAIC.git
 [submodule "01-AI-and-Agents/OpenManus"]
 	path = 01-AI-and-Agents/OpenManus
-	url = https://github.com/Styner2023/OpenManus.git
+	url = https://github.com/StynerStiner/OpenManus.git
 [submodule "01-AI-and-Agents/ottomator-agents"]
 	path = 01-AI-and-Agents/ottomator-agents
-	url = https://github.com/Styner2023/ottomator-agents.git
+	url = https://github.com/StynerStiner/ottomator-agents.git
 [submodule "01-AI-and-Agents/perplexity-style-rag-api"]
 	path = 01-AI-and-Agents/perplexity-style-rag-api
-	url = https://github.com/Styner2023/perplexity-style-rag-api.git
+	url = https://github.com/StynerStiner/perplexity-style-rag-api.git
 [submodule "01-AI-and-Agents/phidata"]
 	path = 01-AI-and-Agents/phidata
-	url = https://github.com/Styner2023/phidata.git
+	url = https://github.com/StynerStiner/phidata.git
 [submodule "01-AI-and-Agents/pipelines"]
 	path = 01-AI-and-Agents/pipelines
-	url = https://github.com/Styner2023/pipelines.git
+	url = https://github.com/StynerStiner/pipelines.git
 [submodule "01-AI-and-Agents/plock"]
 	path = 01-AI-and-Agents/plock
-	url = https://github.com/Styner2023/plock.git
+	url = https://github.com/StynerStiner/plock.git
 [submodule "01-AI-and-Agents/PraisonAI"]
 	path = 01-AI-and-Agents/PraisonAI
-	url = https://github.com/Styner2023/PraisonAI.git
+	url = https://github.com/StynerStiner/PraisonAI.git
 [submodule "01-AI-and-Agents/private-gpt"]
 	path = 01-AI-and-Agents/private-gpt
-	url = https://github.com/Styner2023/private-gpt.git
+	url = https://github.com/StynerStiner/private-gpt.git
 [submodule "01-AI-and-Agents/Qwen"]
 	path = 01-AI-and-Agents/Qwen
-	url = https://github.com/Styner2023/Qwen.git
+	url = https://github.com/StynerStiner/Qwen.git
 [submodule "01-AI-and-Agents/Qwen2"]
 	path = 01-AI-and-Agents/Qwen2
-	url = https://github.com/Styner2023/Qwen2.git
+	url = https://github.com/StynerStiner/Qwen2.git
 [submodule "01-AI-and-Agents/rag-fusion"]
 	path = 01-AI-and-Agents/rag-fusion
-	url = https://github.com/Styner2023/rag-fusion.git
+	url = https://github.com/StynerStiner/rag-fusion.git
 [submodule "01-AI-and-Agents/ragflow"]
 	path = 01-AI-and-Agents/ragflow
-	url = https://github.com/Styner2023/ragflow.git
+	url = https://github.com/StynerStiner/ragflow.git
 [submodule "01-AI-and-Agents/RAVE"]
 	path = 01-AI-and-Agents/RAVE
-	url = https://github.com/Styner2023/RAVE.git
+	url = https://github.com/StynerStiner/RAVE.git
 [submodule "01-AI-and-Agents/raycast-g4f"]
 	path = 01-AI-and-Agents/raycast-g4f
-	url = https://github.com/Styner2023/raycast-g4f.git
+	url = https://github.com/StynerStiner/raycast-g4f.git
 [submodule "01-AI-and-Agents/Rocket.Chat"]
 	path = 01-AI-and-Agents/Rocket.Chat
-	url = https://github.com/Styner2023/Rocket.Chat.git
+	url = https://github.com/StynerStiner/Rocket.Chat.git
 [submodule "01-AI-and-Agents/swarm"]
 	path = 01-AI-and-Agents/swarm
-	url = https://github.com/Styner2023/swarm.git
+	url = https://github.com/StynerStiner/swarm.git
 [submodule "01-AI-and-Agents/swarms"]
 	path = 01-AI-and-Agents/swarms
-	url = https://github.com/Styner2023/swarms.git
+	url = https://github.com/StynerStiner/swarms.git
 [submodule "01-AI-and-Agents/telegraf"]
 	path = 01-AI-and-Agents/telegraf
-	url = https://github.com/Styner2023/telegraf.git
+	url = https://github.com/StynerStiner/telegraf.git
 [submodule "01-AI-and-Agents/TensorRT-LLM"]
 	path = 01-AI-and-Agents/TensorRT-LLM
-	url = https://github.com/Styner2023/TensorRT-LLM.git
+	url = https://github.com/StynerStiner/TensorRT-LLM.git
 [submodule "01-AI-and-Agents/text-generation-webui"]
 	path = 01-AI-and-Agents/text-generation-webui
-	url = https://github.com/Styner2023/text-generation-webui.git
+	url = https://github.com/StynerStiner/text-generation-webui.git
 [submodule "01-AI-and-Agents/unstract"]
 	path = 01-AI-and-Agents/unstract
-	url = https://github.com/Styner2023/unstract.git
+	url = https://github.com/StynerStiner/unstract.git
 [submodule "01-AI-and-Agents/vanna"]
 	path = 01-AI-and-Agents/vanna
-	url = https://github.com/Styner2023/vanna.git
+	url = https://github.com/StynerStiner/vanna.git
 [submodule "01-AI-and-Agents/web-ui"]
 	path = 01-AI-and-Agents/web-ui
-	url = https://github.com/Styner2023/web-ui.git
+	url = https://github.com/StynerStiner/web-ui.git
 [submodule "01-AI-and-Agents/WebAgent"]
 	path = 01-AI-and-Agents/WebAgent
-	url = https://github.com/Styner2023/WebAgent.git
+	url = https://github.com/StynerStiner/WebAgent.git
 [submodule "01-AI-and-Agents/whisper.cpp"]
 	path = 01-AI-and-Agents/whisper.cpp
-	url = https://github.com/Styner2023/whisper.cpp.git
+	url = https://github.com/StynerStiner/whisper.cpp.git
 [submodule "01-AI-and-Agents/WrenAI"]
 	path = 01-AI-and-Agents/WrenAI
-	url = https://github.com/Styner2023/WrenAI.git
+	url = https://github.com/StynerStiner/WrenAI.git
 [submodule "01-AI-and-Agents/Yi-Coder"]
 	path = 01-AI-and-Agents/Yi-Coder
-	url = https://github.com/Styner2023/Yi-Coder.git
+	url = https://github.com/StynerStiner/Yi-Coder.git
 [submodule "02-Web-and-Full-Stack/3d"]
 	path = 02-Web-and-Full-Stack/3d
-	url = https://github.com/Styner2023/3d.git
+	url = https://github.com/StynerStiner/3d.git
 [submodule "02-Web-and-Full-Stack/ACS-1700-Web-Foundations"]
 	path = 02-Web-and-Full-Stack/ACS-1700-Web-Foundations
-	url = https://github.com/Styner2023/ACS-1700-Web-Foundations.git
+	url = https://github.com/StynerStiner/ACS-1700-Web-Foundations.git
 [submodule "02-Web-and-Full-Stack/apihub"]
 	path = 02-Web-and-Full-Stack/apihub
-	url = https://github.com/Styner2023/apihub.git
+	url = https://github.com/StynerStiner/apihub.git
 [submodule "02-Web-and-Full-Stack/apple-silicon"]
 	path = 02-Web-and-Full-Stack/apple-silicon
-	url = https://github.com/Styner2023/apple-silicon.git
+	url = https://github.com/StynerStiner/apple-silicon.git
 [submodule "02-Web-and-Full-Stack/appsmith"]
 	path = 02-Web-and-Full-Stack/appsmith
-	url = https://github.com/Styner2023/appsmith.git
+	url = https://github.com/StynerStiner/appsmith.git
 [submodule "02-Web-and-Full-Stack/AR-Examples"]
 	path = 02-Web-and-Full-Stack/AR-Examples
-	url = https://github.com/Styner2023/AR-Examples.git
+	url = https://github.com/StynerStiner/AR-Examples.git
 [submodule "02-Web-and-Full-Stack/argilla"]
 	path = 02-Web-and-Full-Stack/argilla
-	url = https://github.com/Styner2023/argilla.git
+	url = https://github.com/StynerStiner/argilla.git
 [submodule "02-Web-and-Full-Stack/Asp.Net-WebAPI-Core-CRUD-With-MongoDB"]
 	path = 02-Web-and-Full-Stack/Asp.Net-WebAPI-Core-CRUD-With-MongoDB
-	url = https://github.com/Styner2023/Asp.Net-WebAPI-Core-CRUD-With-MongoDB.git
+	url = https://github.com/StynerStiner/Asp.Net-WebAPI-Core-CRUD-With-MongoDB.git
 [submodule "02-Web-and-Full-Stack/Car-dealership"]
 	path = 02-Web-and-Full-Stack/Car-dealership
-	url = https://github.com/Styner2023/Car-dealership.git
+	url = https://github.com/StynerStiner/Car-dealership.git
 [submodule "02-Web-and-Full-Stack/cloudinary-examples"]
 	path = 02-Web-and-Full-Stack/cloudinary-examples
-	url = https://github.com/Styner2023/cloudinary-examples.git
+	url = https://github.com/StynerStiner/cloudinary-examples.git
 [submodule "02-Web-and-Full-Stack/cnblocks"]
 	path = 02-Web-and-Full-Stack/cnblocks
-	url = https://github.com/Styner2023/cnblocks.git
+	url = https://github.com/StynerStiner/cnblocks.git
 [submodule "02-Web-and-Full-Stack/content"]
 	path = 02-Web-and-Full-Stack/content
-	url = https://github.com/Styner2023/content.git
+	url = https://github.com/StynerStiner/content.git
 [submodule "02-Web-and-Full-Stack/cp-disney-plus-clone"]
 	path = 02-Web-and-Full-Stack/cp-disney-plus-clone
-	url = https://github.com/Styner2023/cp-disney-plus-clone.git
+	url = https://github.com/StynerStiner/cp-disney-plus-clone.git
 [submodule "02-Web-and-Full-Stack/CSS-Challenges"]
 	path = 02-Web-and-Full-Stack/CSS-Challenges
-	url = https://github.com/Styner2023/CSS-Challenges.git
+	url = https://github.com/StynerStiner/CSS-Challenges.git
 [submodule "02-Web-and-Full-Stack/cv-builder"]
 	path = 02-Web-and-Full-Stack/cv-builder
-	url = https://github.com/Styner2023/cv-builder.git
+	url = https://github.com/StynerStiner/cv-builder.git
 [submodule "02-Web-and-Full-Stack/DevToolboxWeb"]
 	path = 02-Web-and-Full-Stack/DevToolboxWeb
-	url = https://github.com/Styner2023/DevToolboxWeb.git
+	url = https://github.com/StynerStiner/DevToolboxWeb.git
 [submodule "02-Web-and-Full-Stack/Django-Auth-And-Perms"]
 	path = 02-Web-and-Full-Stack/Django-Auth-And-Perms
-	url = https://github.com/Styner2023/Django-Auth-And-Perms.git
+	url = https://github.com/StynerStiner/Django-Auth-And-Perms.git
 [submodule "02-Web-and-Full-Stack/Django-Final-Project"]
 	path = 02-Web-and-Full-Stack/Django-Final-Project
-	url = https://github.com/Styner2023/Django-Final-Project.git
+	url = https://github.com/StynerStiner/Django-Final-Project.git
 [submodule "02-Web-and-Full-Stack/EasySpider"]
 	path = 02-Web-and-Full-Stack/EasySpider
-	url = https://github.com/Styner2023/EasySpider.git
+	url = https://github.com/StynerStiner/EasySpider.git
 [submodule "02-Web-and-Full-Stack/ejtos-react_budget_app"]
 	path = 02-Web-and-Full-Stack/ejtos-react_budget_app
-	url = https://github.com/Styner2023/ejtos-react_budget_app.git
+	url = https://github.com/StynerStiner/ejtos-react_budget_app.git
 [submodule "02-Web-and-Full-Stack/Email-and-SMS-Sample"]
 	path = 02-Web-and-Full-Stack/Email-and-SMS-Sample
-	url = https://github.com/Styner2023/Email-and-SMS-Sample.git
+	url = https://github.com/StynerStiner/Email-and-SMS-Sample.git
 [submodule "02-Web-and-Full-Stack/few-track-demo"]
 	path = 02-Web-and-Full-Stack/few-track-demo
-	url = https://github.com/Styner2023/few-track-demo.git
+	url = https://github.com/StynerStiner/few-track-demo.git
 [submodule "02-Web-and-Full-Stack/full-stack-school"]
 	path = 02-Web-and-Full-Stack/full-stack-school
-	url = https://github.com/Styner2023/full-stack-school.git
+	url = https://github.com/StynerStiner/full-stack-school.git
 [submodule "02-Web-and-Full-Stack/generative_ai_project"]
 	path = 02-Web-and-Full-Stack/generative_ai_project
-	url = https://github.com/Styner2023/generative_ai_project.git
+	url = https://github.com/StynerStiner/generative_ai_project.git
 [submodule "02-Web-and-Full-Stack/grog"]
 	path = 02-Web-and-Full-Stack/grog
-	url = https://github.com/Styner2023/grog.git
+	url = https://github.com/StynerStiner/grog.git
 [submodule "02-Web-and-Full-Stack/habit_app_speed_code"]
 	path = 02-Web-and-Full-Stack/habit_app_speed_code
-	url = https://github.com/Styner2023/habit_app_speed_code.git
+	url = https://github.com/StynerStiner/habit_app_speed_code.git
 [submodule "02-Web-and-Full-Stack/Hail"]
 	path = 02-Web-and-Full-Stack/Hail
-	url = https://github.com/Styner2023/Hail.git
+	url = https://github.com/StynerStiner/Hail.git
 [submodule "02-Web-and-Full-Stack/html2text"]
 	path = 02-Web-and-Full-Stack/html2text
-	url = https://github.com/Styner2023/html2text.git
+	url = https://github.com/StynerStiner/html2text.git
 [submodule "02-Web-and-Full-Stack/httrack"]
 	path = 02-Web-and-Full-Stack/httrack
-	url = https://github.com/Styner2023/httrack.git
+	url = https://github.com/StynerStiner/httrack.git
 [submodule "02-Web-and-Full-Stack/iphone-3d-website-starter"]
 	path = 02-Web-and-Full-Stack/iphone-3d-website-starter
-	url = https://github.com/Styner2023/iphone-3d-website-starter.git
+	url = https://github.com/StynerStiner/iphone-3d-website-starter.git
 [submodule "02-Web-and-Full-Stack/katana"]
 	path = 02-Web-and-Full-Stack/katana
-	url = https://github.com/Styner2023/katana.git
+	url = https://github.com/StynerStiner/katana.git
 [submodule "02-Web-and-Full-Stack/kirimase"]
 	path = 02-Web-and-Full-Stack/kirimase
-	url = https://github.com/Styner2023/kirimase.git
+	url = https://github.com/StynerStiner/kirimase.git
 [submodule "02-Web-and-Full-Stack/langgraph-studio"]
 	path = 02-Web-and-Full-Stack/langgraph-studio
-	url = https://github.com/Styner2023/langgraph-studio.git
+	url = https://github.com/StynerStiner/langgraph-studio.git
 [submodule "02-Web-and-Full-Stack/learn-css-flex-box"]
 	path = 02-Web-and-Full-Stack/learn-css-flex-box
-	url = https://github.com/Styner2023/learn-css-flex-box.git
+	url = https://github.com/StynerStiner/learn-css-flex-box.git
 [submodule "02-Web-and-Full-Stack/live-resume"]
 	path = 02-Web-and-Full-Stack/live-resume
-	url = https://github.com/Styner2023/live-resume.git
+	url = https://github.com/StynerStiner/live-resume.git
 [submodule "02-Web-and-Full-Stack/livekit"]
 	path = 02-Web-and-Full-Stack/livekit
-	url = https://github.com/Styner2023/livekit.git
+	url = https://github.com/StynerStiner/livekit.git
 [submodule "02-Web-and-Full-Stack/Living-History-Client"]
 	path = 02-Web-and-Full-Stack/Living-History-Client
-	url = https://github.com/Styner2023/Living-History-Client.git
+	url = https://github.com/StynerStiner/Living-History-Client.git
 [submodule "02-Web-and-Full-Stack/material-components-android"]
 	path = 02-Web-and-Full-Stack/material-components-android
-	url = https://github.com/Styner2023/material-components-android.git
+	url = https://github.com/StynerStiner/material-components-android.git
 [submodule "02-Web-and-Full-Stack/material-web"]
 	path = 02-Web-and-Full-Stack/material-web
-	url = https://github.com/Styner2023/material-web.git
+	url = https://github.com/StynerStiner/material-web.git
 [submodule "02-Web-and-Full-Stack/mlx-benchmark"]
 	path = 02-Web-and-Full-Stack/mlx-benchmark
-	url = https://github.com/Styner2023/mlx-benchmark.git
+	url = https://github.com/StynerStiner/mlx-benchmark.git
 [submodule "02-Web-and-Full-Stack/n8n"]
 	path = 02-Web-and-Full-Stack/n8n
-	url = https://github.com/Styner2023/n8n.git
+	url = https://github.com/StynerStiner/n8n.git
 [submodule "02-Web-and-Full-Stack/next-js-nodemailer"]
 	path = 02-Web-and-Full-Stack/next-js-nodemailer
-	url = https://github.com/Styner2023/next-js-nodemailer.git
+	url = https://github.com/StynerStiner/next-js-nodemailer.git
 [submodule "02-Web-and-Full-Stack/nextjs-s3-example"]
 	path = 02-Web-and-Full-Stack/nextjs-s3-example
-	url = https://github.com/Styner2023/nextjs-s3-example.git
+	url = https://github.com/StynerStiner/nextjs-s3-example.git
 [submodule "02-Web-and-Full-Stack/nns-dapp"]
 	path = 02-Web-and-Full-Stack/nns-dapp
-	url = https://github.com/Styner2023/nns-dapp.git
+	url = https://github.com/StynerStiner/nns-dapp.git
 [submodule "02-Web-and-Full-Stack/no-code-architects-toolkit"]
 	path = 02-Web-and-Full-Stack/no-code-architects-toolkit
-	url = https://github.com/Styner2023/no-code-architects-toolkit.git
+	url = https://github.com/StynerStiner/no-code-architects-toolkit.git
 [submodule "02-Web-and-Full-Stack/nocobase"]
 	path = 02-Web-and-Full-Stack/nocobase
-	url = https://github.com/Styner2023/nocobase.git
+	url = https://github.com/StynerStiner/nocobase.git
 [submodule "02-Web-and-Full-Stack/Node-API"]
 	path = 02-Web-and-Full-Stack/Node-API
-	url = https://github.com/Styner2023/Node-API.git
+	url = https://github.com/StynerStiner/Node-API.git
 [submodule "02-Web-and-Full-Stack/node-ts-mongo"]
 	path = 02-Web-and-Full-Stack/node-ts-mongo
-	url = https://github.com/Styner2023/node-ts-mongo.git
+	url = https://github.com/StynerStiner/node-ts-mongo.git
 [submodule "02-Web-and-Full-Stack/nodejs-app"]
 	path = 02-Web-and-Full-Stack/nodejs-app
-	url = https://github.com/Styner2023/nodejs-app.git
+	url = https://github.com/StynerStiner/nodejs-app.git
 [submodule "02-Web-and-Full-Stack/nodejs-on-ec2"]
 	path = 02-Web-and-Full-Stack/nodejs-on-ec2
-	url = https://github.com/Styner2023/nodejs-on-ec2.git
+	url = https://github.com/StynerStiner/nodejs-on-ec2.git
 [submodule "02-Web-and-Full-Stack/notionclone"]
 	path = 02-Web-and-Full-Stack/notionclone
-	url = https://github.com/Styner2023/notionclone.git
+	url = https://github.com/StynerStiner/notionclone.git
 [submodule "02-Web-and-Full-Stack/Obtainium"]
 	path = 02-Web-and-Full-Stack/Obtainium
-	url = https://github.com/Styner2023/Obtainium.git
+	url = https://github.com/StynerStiner/Obtainium.git
 [submodule "02-Web-and-Full-Stack/ondemand"]
 	path = 02-Web-and-Full-Stack/ondemand
-	url = https://github.com/Styner2023/ondemand.git
+	url = https://github.com/StynerStiner/ondemand.git
 [submodule "02-Web-and-Full-Stack/one"]
 	path = 02-Web-and-Full-Stack/one
-	url = https://github.com/Styner2023/one.git
+	url = https://github.com/StynerStiner/one.git
 [submodule "02-Web-and-Full-Stack/openbts"]
 	path = 02-Web-and-Full-Stack/openbts
-	url = https://github.com/Styner2023/openbts.git
+	url = https://github.com/StynerStiner/openbts.git
 [submodule "02-Web-and-Full-Stack/openui"]
 	path = 02-Web-and-Full-Stack/openui
-	url = https://github.com/Styner2023/openui.git
+	url = https://github.com/StynerStiner/openui.git
 [submodule "02-Web-and-Full-Stack/ossu-client"]
 	path = 02-Web-and-Full-Stack/ossu-client
-	url = https://github.com/Styner2023/ossu-client.git
+	url = https://github.com/StynerStiner/ossu-client.git
 [submodule "02-Web-and-Full-Stack/page-assist"]
 	path = 02-Web-and-Full-Stack/page-assist
-	url = https://github.com/Styner2023/page-assist.git
+	url = https://github.com/StynerStiner/page-assist.git
 [submodule "02-Web-and-Full-Stack/phoenix"]
 	path = 02-Web-and-Full-Stack/phoenix
-	url = https://github.com/Styner2023/phoenix.git
+	url = https://github.com/StynerStiner/phoenix.git
 [submodule "02-Web-and-Full-Stack/potree"]
 	path = 02-Web-and-Full-Stack/potree
-	url = https://github.com/Styner2023/potree.git
+	url = https://github.com/StynerStiner/potree.git
 [submodule "02-Web-and-Full-Stack/QuickSnip"]
 	path = 02-Web-and-Full-Stack/QuickSnip
-	url = https://github.com/Styner2023/QuickSnip.git
+	url = https://github.com/StynerStiner/QuickSnip.git
 [submodule "02-Web-and-Full-Stack/quicksnips"]
 	path = 02-Web-and-Full-Stack/quicksnips
-	url = https://github.com/Styner2023/quicksnips.git
+	url = https://github.com/StynerStiner/quicksnips.git
 [submodule "02-Web-and-Full-Stack/React-18-Design-Patterns-and-Best-Practices-Fourth-Edition"]
 	path = 02-Web-and-Full-Stack/React-18-Design-Patterns-and-Best-Practices-Fourth-Edition
-	url = https://github.com/Styner2023/React-18-Design-Patterns-and-Best-Practices-Fourth-Edition.git
+	url = https://github.com/StynerStiner/React-18-Design-Patterns-and-Best-Practices-Fourth-Edition.git
 [submodule "02-Web-and-Full-Stack/react-magic"]
 	path = 02-Web-and-Full-Stack/react-magic
-	url = https://github.com/Styner2023/react-magic.git
+	url = https://github.com/StynerStiner/react-magic.git
 [submodule "02-Web-and-Full-Stack/react-three-fiber"]
 	path = 02-Web-and-Full-Stack/react-three-fiber
-	url = https://github.com/Styner2023/react-three-fiber.git
+	url = https://github.com/StynerStiner/react-three-fiber.git
 [submodule "02-Web-and-Full-Stack/react-view"]
 	path = 02-Web-and-Full-Stack/react-view
-	url = https://github.com/Styner2023/react-view.git
+	url = https://github.com/StynerStiner/react-view.git
 [submodule "02-Web-and-Full-Stack/react_sketchfab_api"]
 	path = 02-Web-and-Full-Stack/react_sketchfab_api
-	url = https://github.com/Styner2023/react_sketchfab_api.git
+	url = https://github.com/StynerStiner/react_sketchfab_api.git
 [submodule "02-Web-and-Full-Stack/Registration-Webapp"]
 	path = 02-Web-and-Full-Stack/Registration-Webapp
-	url = https://github.com/Styner2023/Registration-Webapp.git
+	url = https://github.com/StynerStiner/Registration-Webapp.git
 [submodule "02-Web-and-Full-Stack/sample-express"]
 	path = 02-Web-and-Full-Stack/sample-express
-	url = https://github.com/Styner2023/sample-express.git
+	url = https://github.com/StynerStiner/sample-express.git
 [submodule "02-Web-and-Full-Stack/screenshot-to-code"]
 	path = 02-Web-and-Full-Stack/screenshot-to-code
-	url = https://github.com/Styner2023/screenshot-to-code.git
+	url = https://github.com/StynerStiner/screenshot-to-code.git
 [submodule "02-Web-and-Full-Stack/self-hosted-ai-starter-kit"]
 	path = 02-Web-and-Full-Stack/self-hosted-ai-starter-kit
-	url = https://github.com/Styner2023/self-hosted-ai-starter-kit.git
+	url = https://github.com/StynerStiner/self-hosted-ai-starter-kit.git
 [submodule "02-Web-and-Full-Stack/Sentiment_Analysis_Web_App"]
 	path = 02-Web-and-Full-Stack/Sentiment_Analysis_Web_App
-	url = https://github.com/Styner2023/Sentiment_Analysis_Web_App.git
+	url = https://github.com/StynerStiner/Sentiment_Analysis_Web_App.git
 [submodule "02-Web-and-Full-Stack/sketchfab-viewer"]
 	path = 02-Web-and-Full-Stack/sketchfab-viewer
-	url = https://github.com/Styner2023/sketchfab-viewer.git
+	url = https://github.com/StynerStiner/sketchfab-viewer.git
 [submodule "02-Web-and-Full-Stack/smartbank"]
 	path = 02-Web-and-Full-Stack/smartbank
-	url = https://github.com/Styner2023/smartbank.git
+	url = https://github.com/StynerStiner/smartbank.git
 [submodule "02-Web-and-Full-Stack/sympy-web-static"]
 	path = 02-Web-and-Full-Stack/sympy-web-static
-	url = https://github.com/Styner2023/sympy-web-static.git
+	url = https://github.com/StynerStiner/sympy-web-static.git
 [submodule "02-Web-and-Full-Stack/sympy.github.com"]
 	path = 02-Web-and-Full-Stack/sympy.github.com
-	url = https://github.com/Styner2023/sympy.github.com.git
+	url = https://github.com/StynerStiner/sympy.github.com.git
 [submodule "02-Web-and-Full-Stack/tetris-react"]
 	path = 02-Web-and-Full-Stack/tetris-react
-	url = https://github.com/Styner2023/tetris-react.git
+	url = https://github.com/StynerStiner/tetris-react.git
 [submodule "02-Web-and-Full-Stack/tlbrowse"]
 	path = 02-Web-and-Full-Stack/tlbrowse
-	url = https://github.com/Styner2023/tlbrowse.git
+	url = https://github.com/StynerStiner/tlbrowse.git
 [submodule "02-Web-and-Full-Stack/tplh.net-2019"]
 	path = 02-Web-and-Full-Stack/tplh.net-2019
-	url = https://github.com/Styner2023/tplh.net-2019.git
+	url = https://github.com/StynerStiner/tplh.net-2019.git
 [submodule "02-Web-and-Full-Stack/travel-planner-app"]
 	path = 02-Web-and-Full-Stack/travel-planner-app
-	url = https://github.com/Styner2023/travel-planner-app.git
+	url = https://github.com/StynerStiner/travel-planner-app.git
 [submodule "02-Web-and-Full-Stack/Universal-Web-Scraper"]
 	path = 02-Web-and-Full-Stack/Universal-Web-Scraper
-	url = https://github.com/Styner2023/Universal-Web-Scraper.git
+	url = https://github.com/StynerStiner/Universal-Web-Scraper.git
 [submodule "02-Web-and-Full-Stack/uqwxd-react_labs"]
 	path = 02-Web-and-Full-Stack/uqwxd-react_labs
-	url = https://github.com/Styner2023/uqwxd-react_labs.git
+	url = https://github.com/StynerStiner/uqwxd-react_labs.git
 [submodule "02-Web-and-Full-Stack/Web-Dev-For-Beginners"]
 	path = 02-Web-and-Full-Stack/Web-Dev-For-Beginners
-	url = https://github.com/Styner2023/Web-Dev-For-Beginners.git
+	url = https://github.com/StynerStiner/Web-Dev-For-Beginners.git
 [submodule "02-Web-and-Full-Stack/Web-Development-with-Django-Second-Edition"]
 	path = 02-Web-and-Full-Stack/Web-Development-with-Django-Second-Edition
-	url = https://github.com/Styner2023/Web-Development-with-Django-Second-Edition.git
+	url = https://github.com/StynerStiner/Web-Development-with-Django-Second-Edition.git
 [submodule "02-Web-and-Full-Stack/Z-Anatomy"]
 	path = 02-Web-and-Full-Stack/Z-Anatomy
-	url = https://github.com/Styner2023/Z-Anatomy.git
+	url = https://github.com/StynerStiner/Z-Anatomy.git
 [submodule "03-Voice-Video-Image-AI/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"]
 	path = 03-Voice-Video-Image-AI/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
-	url = https://github.com/Styner2023/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.git
+	url = https://github.com/StynerStiner/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.git
 [submodule "03-Voice-Video-Image-AI/AccVideo"]
 	path = 03-Voice-Video-Image-AI/AccVideo
-	url = https://github.com/Styner2023/AccVideo.git
+	url = https://github.com/StynerStiner/AccVideo.git
 [submodule "03-Voice-Video-Image-AI/any-to-bokeh"]
 	path = 03-Voice-Video-Image-AI/any-to-bokeh
-	url = https://github.com/Styner2023/any-to-bokeh.git
+	url = https://github.com/StynerStiner/any-to-bokeh.git
 [submodule "03-Voice-Video-Image-AI/audio-share"]
 	path = 03-Voice-Video-Image-AI/audio-share
-	url = https://github.com/Styner2023/audio-share.git
+	url = https://github.com/StynerStiner/audio-share.git
 [submodule "03-Voice-Video-Image-AI/auto_dataset_tts"]
 	path = 03-Voice-Video-Image-AI/auto_dataset_tts
-	url = https://github.com/Styner2023/auto_dataset_tts.git
+	url = https://github.com/StynerStiner/auto_dataset_tts.git
 [submodule "03-Voice-Video-Image-AI/awesome-software-architecture"]
 	path = 03-Voice-Video-Image-AI/awesome-software-architecture
-	url = https://github.com/Styner2023/awesome-software-architecture.git
+	url = https://github.com/StynerStiner/awesome-software-architecture.git
 [submodule "03-Voice-Video-Image-AI/CogVideo"]
 	path = 03-Voice-Video-Image-AI/CogVideo
-	url = https://github.com/Styner2023/CogVideo.git
+	url = https://github.com/StynerStiner/CogVideo.git
 [submodule "03-Voice-Video-Image-AI/design-resources-for-developers"]
 	path = 03-Voice-Video-Image-AI/design-resources-for-developers
-	url = https://github.com/Styner2023/design-resources-for-developers.git
+	url = https://github.com/StynerStiner/design-resources-for-developers.git
 [submodule "03-Voice-Video-Image-AI/DiffSynth-Studio"]
 	path = 03-Voice-Video-Image-AI/DiffSynth-Studio
-	url = https://github.com/Styner2023/DiffSynth-Studio.git
+	url = https://github.com/StynerStiner/DiffSynth-Studio.git
 [submodule "03-Voice-Video-Image-AI/diffusion-self-distillation"]
 	path = 03-Voice-Video-Image-AI/diffusion-self-distillation
-	url = https://github.com/Styner2023/diffusion-self-distillation.git
+	url = https://github.com/StynerStiner/diffusion-self-distillation.git
 [submodule "03-Voice-Video-Image-AI/DimensionX"]
 	path = 03-Voice-Video-Image-AI/DimensionX
-	url = https://github.com/Styner2023/DimensionX.git
+	url = https://github.com/StynerStiner/DimensionX.git
 [submodule "03-Voice-Video-Image-AI/DreamMachineAPI"]
 	path = 03-Voice-Video-Image-AI/DreamMachineAPI
-	url = https://github.com/Styner2023/DreamMachineAPI.git
+	url = https://github.com/StynerStiner/DreamMachineAPI.git
 [submodule "03-Voice-Video-Image-AI/emupedia.github.io"]
 	path = 03-Voice-Video-Image-AI/emupedia.github.io
-	url = https://github.com/Styner2023/emupedia.github.io.git
+	url = https://github.com/StynerStiner/emupedia.github.io.git
 [submodule "03-Voice-Video-Image-AI/GEN3C"]
 	path = 03-Voice-Video-Image-AI/GEN3C
-	url = https://github.com/Styner2023/GEN3C.git
+	url = https://github.com/StynerStiner/GEN3C.git
 [submodule "03-Voice-Video-Image-AI/GLM-4-Voice"]
 	path = 03-Voice-Video-Image-AI/GLM-4-Voice
-	url = https://github.com/Styner2023/GLM-4-Voice.git
+	url = https://github.com/StynerStiner/GLM-4-Voice.git
 [submodule "03-Voice-Video-Image-AI/guess-the-number"]
 	path = 03-Voice-Video-Image-AI/guess-the-number
-	url = https://github.com/Styner2023/guess-the-number.git
+	url = https://github.com/StynerStiner/guess-the-number.git
 [submodule "03-Voice-Video-Image-AI/InfiniteYou"]
 	path = 03-Voice-Video-Image-AI/InfiniteYou
-	url = https://github.com/Styner2023/InfiniteYou.git
+	url = https://github.com/StynerStiner/InfiniteYou.git
 [submodule "03-Voice-Video-Image-AI/larynx"]
 	path = 03-Voice-Video-Image-AI/larynx
-	url = https://github.com/Styner2023/larynx.git
+	url = https://github.com/StynerStiner/larynx.git
 [submodule "03-Voice-Video-Image-AI/Meta_Translate_Globally_Seamless_Communication"]
 	path = 03-Voice-Video-Image-AI/Meta_Translate_Globally_Seamless_Communication
-	url = https://github.com/Styner2023/Meta_Translate_Globally_Seamless_Communication.git
+	url = https://github.com/StynerStiner/Meta_Translate_Globally_Seamless_Communication.git
 [submodule "03-Voice-Video-Image-AI/nextjs-cloudflare-voice-ai"]
 	path = 03-Voice-Video-Image-AI/nextjs-cloudflare-voice-ai
-	url = https://github.com/Styner2023/nextjs-cloudflare-voice-ai.git
+	url = https://github.com/StynerStiner/nextjs-cloudflare-voice-ai.git
 [submodule "03-Voice-Video-Image-AI/nix-tts"]
 	path = 03-Voice-Video-Image-AI/nix-tts
-	url = https://github.com/Styner2023/nix-tts.git
+	url = https://github.com/StynerStiner/nix-tts.git
 [submodule "03-Voice-Video-Image-AI/Omost"]
 	path = 03-Voice-Video-Image-AI/Omost
-	url = https://github.com/Styner2023/Omost.git
+	url = https://github.com/StynerStiner/Omost.git
 [submodule "03-Voice-Video-Image-AI/one-photos"]
 	path = 03-Voice-Video-Image-AI/one-photos
-	url = https://github.com/Styner2023/one-photos.git
+	url = https://github.com/StynerStiner/one-photos.git
 [submodule "03-Voice-Video-Image-AI/Open-Sora"]
 	path = 03-Voice-Video-Image-AI/Open-Sora
-	url = https://github.com/Styner2023/Open-Sora.git
+	url = https://github.com/StynerStiner/Open-Sora.git
 [submodule "03-Voice-Video-Image-AI/OpenVoice"]
 	path = 03-Voice-Video-Image-AI/OpenVoice
-	url = https://github.com/Styner2023/OpenVoice.git
+	url = https://github.com/StynerStiner/OpenVoice.git
 [submodule "03-Voice-Video-Image-AI/OpenVoice-colab"]
 	path = 03-Voice-Video-Image-AI/OpenVoice-colab
-	url = https://github.com/Styner2023/OpenVoice-colab.git
+	url = https://github.com/StynerStiner/OpenVoice-colab.git
 [submodule "03-Voice-Video-Image-AI/Pangolin-OpenGL-display-"]
 	path = 03-Voice-Video-Image-AI/Pangolin-OpenGL-display-
-	url = https://github.com/Styner2023/Pangolin-OpenGL-display-.git
+	url = https://github.com/StynerStiner/Pangolin-OpenGL-display-.git
 [submodule "03-Voice-Video-Image-AI/Phantom"]
 	path = 03-Voice-Video-Image-AI/Phantom
-	url = https://github.com/Styner2023/Phantom.git
+	url = https://github.com/StynerStiner/Phantom.git
 [submodule "03-Voice-Video-Image-AI/piper"]
 	path = 03-Voice-Video-Image-AI/piper
-	url = https://github.com/Styner2023/piper.git
+	url = https://github.com/StynerStiner/piper.git
 [submodule "03-Voice-Video-Image-AI/pyphotoshop"]
 	path = 03-Voice-Video-Image-AI/pyphotoshop
-	url = https://github.com/Styner2023/pyphotoshop.git
+	url = https://github.com/StynerStiner/pyphotoshop.git
 [submodule "03-Voice-Video-Image-AI/react-pdf"]
 	path = 03-Voice-Video-Image-AI/react-pdf
-	url = https://github.com/Styner2023/react-pdf.git
+	url = https://github.com/StynerStiner/react-pdf.git
 [submodule "03-Voice-Video-Image-AI/RHF"]
 	path = 03-Voice-Video-Image-AI/RHF
-	url = https://github.com/Styner2023/RHF.git
+	url = https://github.com/StynerStiner/RHF.git
 [submodule "03-Voice-Video-Image-AI/seed-tts-eval"]
 	path = 03-Voice-Video-Image-AI/seed-tts-eval
-	url = https://github.com/Styner2023/seed-tts-eval.git
+	url = https://github.com/StynerStiner/seed-tts-eval.git
 [submodule "03-Voice-Video-Image-AI/seed-vc"]
 	path = 03-Voice-Video-Image-AI/seed-vc
-	url = https://github.com/Styner2023/seed-vc.git
+	url = https://github.com/StynerStiner/seed-vc.git
 [submodule "03-Voice-Video-Image-AI/sesame"]
 	path = 03-Voice-Video-Image-AI/sesame
-	url = https://github.com/Styner2023/sesame.git
+	url = https://github.com/StynerStiner/sesame.git
 [submodule "03-Voice-Video-Image-AI/socialmediascheduler"]
 	path = 03-Voice-Video-Image-AI/socialmediascheduler
-	url = https://github.com/Styner2023/socialmediascheduler.git
+	url = https://github.com/StynerStiner/socialmediascheduler.git
 [submodule "03-Voice-Video-Image-AI/Spark-TTS"]
 	path = 03-Voice-Video-Image-AI/Spark-TTS
-	url = https://github.com/Styner2023/Spark-TTS.git
+	url = https://github.com/StynerStiner/Spark-TTS.git
 [submodule "03-Voice-Video-Image-AI/squoosh"]
 	path = 03-Voice-Video-Image-AI/squoosh
-	url = https://github.com/Styner2023/squoosh.git
+	url = https://github.com/StynerStiner/squoosh.git
 [submodule "03-Voice-Video-Image-AI/stable-diffusion-webui"]
 	path = 03-Voice-Video-Image-AI/stable-diffusion-webui
-	url = https://github.com/Styner2023/stable-diffusion-webui.git
+	url = https://github.com/StynerStiner/stable-diffusion-webui.git
 [submodule "03-Voice-Video-Image-AI/staxrip"]
 	path = 03-Voice-Video-Image-AI/staxrip
-	url = https://github.com/Styner2023/staxrip.git
+	url = https://github.com/StynerStiner/staxrip.git
 [submodule "03-Voice-Video-Image-AI/StyleTTS2"]
 	path = 03-Voice-Video-Image-AI/StyleTTS2
-	url = https://github.com/Styner2023/StyleTTS2.git
+	url = https://github.com/StynerStiner/StyleTTS2.git
 [submodule "03-Voice-Video-Image-AI/TagStudio"]
 	path = 03-Voice-Video-Image-AI/TagStudio
-	url = https://github.com/Styner2023/TagStudio.git
+	url = https://github.com/StynerStiner/TagStudio.git
 [submodule "03-Voice-Video-Image-AI/TensorFlowTTS"]
 	path = 03-Voice-Video-Image-AI/TensorFlowTTS
-	url = https://github.com/Styner2023/TensorFlowTTS.git
+	url = https://github.com/StynerStiner/TensorFlowTTS.git
 [submodule "03-Voice-Video-Image-AI/TTS"]
 	path = 03-Voice-Video-Image-AI/TTS
-	url = https://github.com/Styner2023/TTS.git
+	url = https://github.com/StynerStiner/TTS.git
 [submodule "03-Voice-Video-Image-AI/Unique3D"]
 	path = 03-Voice-Video-Image-AI/Unique3D
-	url = https://github.com/Styner2023/Unique3D.git
+	url = https://github.com/StynerStiner/Unique3D.git
 [submodule "03-Voice-Video-Image-AI/video-2025-02-junie"]
 	path = 03-Voice-Video-Image-AI/video-2025-02-junie
-	url = https://github.com/Styner2023/video-2025-02-junie.git
+	url = https://github.com/StynerStiner/video-2025-02-junie.git
 [submodule "03-Voice-Video-Image-AI/Video-T1"]
 	path = 03-Voice-Video-Image-AI/Video-T1
-	url = https://github.com/Styner2023/Video-T1.git
+	url = https://github.com/StynerStiner/Video-T1.git
 [submodule "03-Voice-Video-Image-AI/Wan2.1"]
 	path = 03-Voice-Video-Image-AI/Wan2.1
-	url = https://github.com/Styner2023/Wan2.1.git
+	url = https://github.com/StynerStiner/Wan2.1.git
 [submodule "03-Voice-Video-Image-AI/whisper"]
 	path = 03-Voice-Video-Image-AI/whisper
-	url = https://github.com/Styner2023/whisper.git
+	url = https://github.com/StynerStiner/whisper.git
 [submodule "03-Voice-Video-Image-AI/xtts-finetune-webui"]
 	path = 03-Voice-Video-Image-AI/xtts-finetune-webui
-	url = https://github.com/Styner2023/xtts-finetune-webui.git
+	url = https://github.com/StynerStiner/xtts-finetune-webui.git
 [submodule "03-Voice-Video-Image-AI/XTTS-RVC-UI"]
 	path = 03-Voice-Video-Image-AI/XTTS-RVC-UI
-	url = https://github.com/Styner2023/XTTS-RVC-UI.git
+	url = https://github.com/StynerStiner/XTTS-RVC-UI.git
 [submodule "03-Voice-Video-Image-AI/xtts-webui"]
 	path = 03-Voice-Video-Image-AI/xtts-webui
-	url = https://github.com/Styner2023/xtts-webui.git
+	url = https://github.com/StynerStiner/xtts-webui.git
 [submodule "03-Voice-Video-Image-AI/YouTube-Blog"]
 	path = 03-Voice-Video-Image-AI/YouTube-Blog
-	url = https://github.com/Styner2023/YouTube-Blog.git
+	url = https://github.com/StynerStiner/YouTube-Blog.git
 [submodule "03-Voice-Video-Image-AI/Zonos"]
 	path = 03-Voice-Video-Image-AI/Zonos
-	url = https://github.com/Styner2023/Zonos.git
+	url = https://github.com/StynerStiner/Zonos.git
 [submodule "04-Books-and-Learning/3D-Formats-Guidelines"]
 	path = 04-Books-and-Learning/3D-Formats-Guidelines
-	url = https://github.com/Styner2023/3D-Formats-Guidelines.git
+	url = https://github.com/StynerStiner/3D-Formats-Guidelines.git
 [submodule "04-Books-and-Learning/A_Collection_Of_Free_Tech_Resources"]
 	path = 04-Books-and-Learning/A_Collection_Of_Free_Tech_Resources
-	url = https://github.com/Styner2023/A_Collection_Of_Free_Tech_Resources.git
+	url = https://github.com/StynerStiner/A_Collection_Of_Free_Tech_Resources.git
 [submodule "04-Books-and-Learning/ai"]
 	path = 04-Books-and-Learning/ai
-	url = https://github.com/Styner2023/ai.git
+	url = https://github.com/StynerStiner/ai.git
 [submodule "04-Books-and-Learning/ai-engineer-roadmap"]
 	path = 04-Books-and-Learning/ai-engineer-roadmap
-	url = https://github.com/Styner2023/ai-engineer-roadmap.git
+	url = https://github.com/StynerStiner/ai-engineer-roadmap.git
 [submodule "04-Books-and-Learning/ai_mock_interviews"]
 	path = 04-Books-and-Learning/ai_mock_interviews
-	url = https://github.com/Styner2023/ai_mock_interviews.git
+	url = https://github.com/StynerStiner/ai_mock_interviews.git
 [submodule "04-Books-and-Learning/awesome-mesh"]
 	path = 04-Books-and-Learning/awesome-mesh
-	url = https://github.com/Styner2023/awesome-mesh.git
+	url = https://github.com/StynerStiner/awesome-mesh.git
 [submodule "04-Books-and-Learning/awesome-selfhosted"]
 	path = 04-Books-and-Learning/awesome-selfhosted
-	url = https://github.com/Styner2023/awesome-selfhosted.git
+	url = https://github.com/StynerStiner/awesome-selfhosted.git
 [submodule "04-Books-and-Learning/awsome-list-of-cv-and-resume-templetes"]
 	path = 04-Books-and-Learning/awsome-list-of-cv-and-resume-templetes
-	url = https://github.com/Styner2023/awsome-list-of-cv-and-resume-templetes.git
+	url = https://github.com/StynerStiner/awsome-list-of-cv-and-resume-templetes.git
 [submodule "04-Books-and-Learning/BANKI"]
 	path = 04-Books-and-Learning/BANKI
-	url = https://github.com/Styner2023/BANKI.git
+	url = https://github.com/StynerStiner/BANKI.git
 [submodule "04-Books-and-Learning/Become-A-Full-Stack-Web-Developer"]
 	path = 04-Books-and-Learning/Become-A-Full-Stack-Web-Developer
-	url = https://github.com/Styner2023/Become-A-Full-Stack-Web-Developer.git
+	url = https://github.com/StynerStiner/Become-A-Full-Stack-Web-Developer.git
 [submodule "04-Books-and-Learning/bookcorpus"]
 	path = 04-Books-and-Learning/bookcorpus
-	url = https://github.com/Styner2023/bookcorpus.git
+	url = https://github.com/StynerStiner/bookcorpus.git
 [submodule "04-Books-and-Learning/books"]
 	path = 04-Books-and-Learning/books
-	url = https://github.com/Styner2023/books.git
+	url = https://github.com/StynerStiner/books.git
 [submodule "04-Books-and-Learning/books-dev"]
 	path = 04-Books-and-Learning/books-dev
-	url = https://github.com/Styner2023/books-dev.git
+	url = https://github.com/StynerStiner/books-dev.git
 [submodule "04-Books-and-Learning/Code-LMs"]
 	path = 04-Books-and-Learning/Code-LMs
-	url = https://github.com/Styner2023/Code-LMs.git
+	url = https://github.com/StynerStiner/Code-LMs.git
 [submodule "04-Books-and-Learning/CSBooks"]
 	path = 04-Books-and-Learning/CSBooks
-	url = https://github.com/Styner2023/CSBooks.git
+	url = https://github.com/StynerStiner/CSBooks.git
 [submodule "04-Books-and-Learning/ecommerce-tutorial"]
 	path = 04-Books-and-Learning/ecommerce-tutorial
-	url = https://github.com/Styner2023/ecommerce-tutorial.git
+	url = https://github.com/StynerStiner/ecommerce-tutorial.git
 [submodule "04-Books-and-Learning/example_repo"]
 	path = 04-Books-and-Learning/example_repo
-	url = https://github.com/Styner2023/example_repo.git
+	url = https://github.com/StynerStiner/example_repo.git
 [submodule "04-Books-and-Learning/expressBookReviews"]
 	path = 04-Books-and-Learning/expressBookReviews
-	url = https://github.com/Styner2023/expressBookReviews.git
+	url = https://github.com/StynerStiner/expressBookReviews.git
 [submodule "04-Books-and-Learning/FinML"]
 	path = 04-Books-and-Learning/FinML
-	url = https://github.com/Styner2023/FinML.git
+	url = https://github.com/StynerStiner/FinML.git
 [submodule "04-Books-and-Learning/game-of-life"]
 	path = 04-Books-and-Learning/game-of-life
-	url = https://github.com/Styner2023/game-of-life.git
+	url = https://github.com/StynerStiner/game-of-life.git
 [submodule "04-Books-and-Learning/GenAI-Showcase"]
 	path = 04-Books-and-Learning/GenAI-Showcase
-	url = https://github.com/Styner2023/GenAI-Showcase.git
+	url = https://github.com/StynerStiner/GenAI-Showcase.git
 [submodule "04-Books-and-Learning/GMTK-Unity-Tutorial"]
 	path = 04-Books-and-Learning/GMTK-Unity-Tutorial
-	url = https://github.com/Styner2023/GMTK-Unity-Tutorial.git
+	url = https://github.com/StynerStiner/GMTK-Unity-Tutorial.git
 [submodule "04-Books-and-Learning/good-books"]
 	path = 04-Books-and-Learning/good-books
-	url = https://github.com/Styner2023/good-books.git
+	url = https://github.com/StynerStiner/good-books.git
 [submodule "04-Books-and-Learning/gorgonia"]
 	path = 04-Books-and-Learning/gorgonia
-	url = https://github.com/Styner2023/gorgonia.git
+	url = https://github.com/StynerStiner/gorgonia.git
 [submodule "04-Books-and-Learning/hivemind"]
 	path = 04-Books-and-Learning/hivemind
-	url = https://github.com/Styner2023/hivemind.git
+	url = https://github.com/StynerStiner/hivemind.git
 [submodule "04-Books-and-Learning/learn-semantic-markup"]
 	path = 04-Books-and-Learning/learn-semantic-markup
-	url = https://github.com/Styner2023/learn-semantic-markup.git
+	url = https://github.com/StynerStiner/learn-semantic-markup.git
 [submodule "04-Books-and-Learning/LeetCodeTraining"]
 	path = 04-Books-and-Learning/LeetCodeTraining
-	url = https://github.com/Styner2023/LeetCodeTraining.git
+	url = https://github.com/StynerStiner/LeetCodeTraining.git
 [submodule "04-Books-and-Learning/machine-learning-systems-design"]
 	path = 04-Books-and-Learning/machine-learning-systems-design
-	url = https://github.com/Styner2023/machine-learning-systems-design.git
+	url = https://github.com/StynerStiner/machine-learning-systems-design.git
 [submodule "04-Books-and-Learning/Medium-Articles-Notebooks"]
 	path = 04-Books-and-Learning/Medium-Articles-Notebooks
-	url = https://github.com/Styner2023/Medium-Articles-Notebooks.git
+	url = https://github.com/StynerStiner/Medium-Articles-Notebooks.git
 [submodule "04-Books-and-Learning/MinerU"]
 	path = 04-Books-and-Learning/MinerU
-	url = https://github.com/Styner2023/MinerU.git
+	url = https://github.com/StynerStiner/MinerU.git
 [submodule "04-Books-and-Learning/next-cookbook"]
 	path = 04-Books-and-Learning/next-cookbook
-	url = https://github.com/Styner2023/next-cookbook.git
+	url = https://github.com/StynerStiner/next-cookbook.git
 [submodule "04-Books-and-Learning/nextjs-commerce-tutorial"]
 	path = 04-Books-and-Learning/nextjs-commerce-tutorial
-	url = https://github.com/Styner2023/nextjs-commerce-tutorial.git
+	url = https://github.com/StynerStiner/nextjs-commerce-tutorial.git
 [submodule "04-Books-and-Learning/orangehrm"]
 	path = 04-Books-and-Learning/orangehrm
-	url = https://github.com/Styner2023/orangehrm.git
+	url = https://github.com/StynerStiner/orangehrm.git
 [submodule "04-Books-and-Learning/patient-health-frontend"]
 	path = 04-Books-and-Learning/patient-health-frontend
-	url = https://github.com/Styner2023/patient-health-frontend.git
+	url = https://github.com/StynerStiner/patient-health-frontend.git
 [submodule "04-Books-and-Learning/Programming-_Principles_and_Practice_Using_Cpp"]
 	path = 04-Books-and-Learning/Programming-_Principles_and_Practice_Using_Cpp
-	url = https://github.com/Styner2023/Programming-_Principles_and_Practice_Using_Cpp.git
+	url = https://github.com/StynerStiner/Programming-_Principles_and_Practice_Using_Cpp.git
 [submodule "04-Books-and-Learning/public-apis"]
 	path = 04-Books-and-Learning/public-apis
-	url = https://github.com/Styner2023/public-apis.git
+	url = https://github.com/StynerStiner/public-apis.git
 [submodule "04-Books-and-Learning/r3f-animated-book-slider-starter"]
 	path = 04-Books-and-Learning/r3f-animated-book-slider-starter
-	url = https://github.com/Styner2023/r3f-animated-book-slider-starter.git
+	url = https://github.com/StynerStiner/r3f-animated-book-slider-starter.git
 [submodule "04-Books-and-Learning/References_Books"]
 	path = 04-Books-and-Learning/References_Books
-	url = https://github.com/Styner2023/References_Books.git
+	url = https://github.com/StynerStiner/References_Books.git
 [submodule "04-Books-and-Learning/ResourcesSaverExt"]
 	path = 04-Books-and-Learning/ResourcesSaverExt
-	url = https://github.com/Styner2023/ResourcesSaverExt.git
+	url = https://github.com/StynerStiner/ResourcesSaverExt.git
 [submodule "04-Books-and-Learning/safaribooks"]
 	path = 04-Books-and-Learning/safaribooks
-	url = https://github.com/Styner2023/safaribooks.git
+	url = https://github.com/StynerStiner/safaribooks.git
 [submodule "04-Books-and-Learning/scikit-learn"]
 	path = 04-Books-and-Learning/scikit-learn
-	url = https://github.com/Styner2023/scikit-learn.git
+	url = https://github.com/StynerStiner/scikit-learn.git
 [submodule "04-Books-and-Learning/Software-Development-Books"]
 	path = 04-Books-and-Learning/Software-Development-Books
-	url = https://github.com/Styner2023/Software-Development-Books.git
+	url = https://github.com/StynerStiner/Software-Development-Books.git
 [submodule "04-Books-and-Learning/srcbook"]
 	path = 04-Books-and-Learning/srcbook
-	url = https://github.com/Styner2023/srcbook.git
+	url = https://github.com/StynerStiner/srcbook.git
 [submodule "04-Books-and-Learning/storybook"]
 	path = 04-Books-and-Learning/storybook
-	url = https://github.com/Styner2023/storybook.git
+	url = https://github.com/StynerStiner/storybook.git
 [submodule "04-Books-and-Learning/system-design-primer"]
 	path = 04-Books-and-Learning/system-design-primer
-	url = https://github.com/Styner2023/system-design-primer.git
+	url = https://github.com/StynerStiner/system-design-primer.git
 [submodule "04-Books-and-Learning/The_Way_to_Jai"]
 	path = 04-Books-and-Learning/The_Way_to_Jai
-	url = https://github.com/Styner2023/The_Way_to_Jai.git
+	url = https://github.com/StynerStiner/The_Way_to_Jai.git
 [submodule "04-Books-and-Learning/transformers"]
 	path = 04-Books-and-Learning/transformers
-	url = https://github.com/Styner2023/transformers.git
+	url = https://github.com/StynerStiner/transformers.git
 [submodule "04-Books-and-Learning/uwsgi-docs"]
 	path = 04-Books-and-Learning/uwsgi-docs
-	url = https://github.com/Styner2023/uwsgi-docs.git
+	url = https://github.com/StynerStiner/uwsgi-docs.git
 [submodule "04-Books-and-Learning/Watson-NLP"]
 	path = 04-Books-and-Learning/Watson-NLP
-	url = https://github.com/Styner2023/Watson-NLP.git
+	url = https://github.com/StynerStiner/Watson-NLP.git
 [submodule "05-Programming-Languages/ACS-3330-Single-Page-Web-Applications"]
 	path = 05-Programming-Languages/ACS-3330-Single-Page-Web-Applications
-	url = https://github.com/Styner2023/ACS-3330-Single-Page-Web-Applications.git
+	url = https://github.com/StynerStiner/ACS-3330-Single-Page-Web-Applications.git
 [submodule "05-Programming-Languages/candle"]
 	path = 05-Programming-Languages/candle
-	url = https://github.com/Styner2023/candle.git
+	url = https://github.com/StynerStiner/candle.git
 [submodule "05-Programming-Languages/cpp_by_example"]
 	path = 05-Programming-Languages/cpp_by_example
-	url = https://github.com/Styner2023/cpp_by_example.git
+	url = https://github.com/StynerStiner/cpp_by_example.git
 [submodule "05-Programming-Languages/cpp_novice_template"]
 	path = 05-Programming-Languages/cpp_novice_template
-	url = https://github.com/Styner2023/cpp_novice_template.git
+	url = https://github.com/StynerStiner/cpp_novice_template.git
 [submodule "05-Programming-Languages/csp_python"]
 	path = 05-Programming-Languages/csp_python
-	url = https://github.com/Styner2023/csp_python.git
+	url = https://github.com/StynerStiner/csp_python.git
 [submodule "05-Programming-Languages/fastrtc"]
 	path = 05-Programming-Languages/fastrtc
-	url = https://github.com/Styner2023/fastrtc.git
+	url = https://github.com/StynerStiner/fastrtc.git
 [submodule "05-Programming-Languages/full-stack-python"]
 	path = 05-Programming-Languages/full-stack-python
-	url = https://github.com/Styner2023/full-stack-python.git
+	url = https://github.com/StynerStiner/full-stack-python.git
 [submodule "05-Programming-Languages/GSAP"]
 	path = 05-Programming-Languages/GSAP
-	url = https://github.com/Styner2023/GSAP.git
+	url = https://github.com/StynerStiner/GSAP.git
 [submodule "05-Programming-Languages/Happy-Birthday"]
 	path = 05-Programming-Languages/Happy-Birthday
-	url = https://github.com/Styner2023/Happy-Birthday.git
+	url = https://github.com/StynerStiner/Happy-Birthday.git
 [submodule "05-Programming-Languages/HelloWorld"]
 	path = 05-Programming-Languages/HelloWorld
-	url = https://github.com/Styner2023/HelloWorld.git
+	url = https://github.com/StynerStiner/HelloWorld.git
 [submodule "05-Programming-Languages/highlight.js"]
 	path = 05-Programming-Languages/highlight.js
-	url = https://github.com/Styner2023/highlight.js.git
+	url = https://github.com/StynerStiner/highlight.js.git
 [submodule "05-Programming-Languages/jasmine"]
 	path = 05-Programming-Languages/jasmine
-	url = https://github.com/Styner2023/jasmine.git
+	url = https://github.com/StynerStiner/jasmine.git
 [submodule "05-Programming-Languages/leafmap"]
 	path = 05-Programming-Languages/leafmap
-	url = https://github.com/Styner2023/leafmap.git
+	url = https://github.com/StynerStiner/leafmap.git
 [submodule "05-Programming-Languages/Learn-Python-in-7-Days"]
 	path = 05-Programming-Languages/Learn-Python-in-7-Days
-	url = https://github.com/Styner2023/Learn-Python-in-7-Days.git
+	url = https://github.com/StynerStiner/Learn-Python-in-7-Days.git
 [submodule "05-Programming-Languages/lightweight-charts-python"]
 	path = 05-Programming-Languages/lightweight-charts-python
-	url = https://github.com/Styner2023/lightweight-charts-python.git
+	url = https://github.com/StynerStiner/lightweight-charts-python.git
 [submodule "05-Programming-Languages/mesop"]
 	path = 05-Programming-Languages/mesop
-	url = https://github.com/Styner2023/mesop.git
+	url = https://github.com/StynerStiner/mesop.git
 [submodule "05-Programming-Languages/misanthropy"]
 	path = 05-Programming-Languages/misanthropy
-	url = https://github.com/Styner2023/misanthropy.git
+	url = https://github.com/StynerStiner/misanthropy.git
 [submodule "05-Programming-Languages/moshi"]
 	path = 05-Programming-Languages/moshi
-	url = https://github.com/Styner2023/moshi.git
+	url = https://github.com/StynerStiner/moshi.git
 [submodule "05-Programming-Languages/osin"]
 	path = 05-Programming-Languages/osin
-	url = https://github.com/Styner2023/osin.git
+	url = https://github.com/StynerStiner/osin.git
 [submodule "05-Programming-Languages/pdf-lib"]
 	path = 05-Programming-Languages/pdf-lib
-	url = https://github.com/Styner2023/pdf-lib.git
+	url = https://github.com/StynerStiner/pdf-lib.git
 [submodule "05-Programming-Languages/pdf.js"]
 	path = 05-Programming-Languages/pdf.js
-	url = https://github.com/Styner2023/pdf.js.git
+	url = https://github.com/StynerStiner/pdf.js.git
 [submodule "05-Programming-Languages/productive-vscode-site"]
 	path = 05-Programming-Languages/productive-vscode-site
-	url = https://github.com/Styner2023/productive-vscode-site.git
+	url = https://github.com/StynerStiner/productive-vscode-site.git
 [submodule "05-Programming-Languages/ProjectTemplate"]
 	path = 05-Programming-Languages/ProjectTemplate
-	url = https://github.com/Styner2023/ProjectTemplate.git
+	url = https://github.com/StynerStiner/ProjectTemplate.git
 [submodule "05-Programming-Languages/Python-Artificial-Intelligence-Projects-for-Beginners"]
 	path = 05-Programming-Languages/Python-Artificial-Intelligence-Projects-for-Beginners
-	url = https://github.com/Styner2023/Python-Artificial-Intelligence-Projects-for-Beginners.git
+	url = https://github.com/StynerStiner/Python-Artificial-Intelligence-Projects-for-Beginners.git
 [submodule "05-Programming-Languages/Python-Beginner-Automation-Projects"]
 	path = 05-Programming-Languages/Python-Beginner-Automation-Projects
-	url = https://github.com/Styner2023/Python-Beginner-Automation-Projects.git
+	url = https://github.com/StynerStiner/Python-Beginner-Automation-Projects.git
 [submodule "05-Programming-Languages/Python-for-EEG"]
 	path = 05-Programming-Languages/Python-for-EEG
-	url = https://github.com/Styner2023/Python-for-EEG.git
+	url = https://github.com/StynerStiner/Python-for-EEG.git
 [submodule "05-Programming-Languages/python-for-kids"]
 	path = 05-Programming-Languages/python-for-kids
-	url = https://github.com/Styner2023/python-for-kids.git
+	url = https://github.com/StynerStiner/python-for-kids.git
 [submodule "05-Programming-Languages/python-github-action-template"]
 	path = 05-Programming-Languages/python-github-action-template
-	url = https://github.com/Styner2023/python-github-action-template.git
+	url = https://github.com/StynerStiner/python-github-action-template.git
 [submodule "05-Programming-Languages/pythonstudy"]
 	path = 05-Programming-Languages/pythonstudy
-	url = https://github.com/Styner2023/pythonstudy.git
+	url = https://github.com/StynerStiner/pythonstudy.git
 [submodule "05-Programming-Languages/rust-cpp-parser"]
 	path = 05-Programming-Languages/rust-cpp-parser
-	url = https://github.com/Styner2023/rust-cpp-parser.git
+	url = https://github.com/StynerStiner/rust-cpp-parser.git
 [submodule "05-Programming-Languages/rustdesk"]
 	path = 05-Programming-Languages/rustdesk
-	url = https://github.com/Styner2023/rustdesk.git
+	url = https://github.com/StynerStiner/rustdesk.git
 [submodule "05-Programming-Languages/scrap"]
 	path = 05-Programming-Languages/scrap
-	url = https://github.com/Styner2023/scrap.git
+	url = https://github.com/StynerStiner/scrap.git
 [submodule "05-Programming-Languages/strapi"]
 	path = 05-Programming-Languages/strapi
-	url = https://github.com/Styner2023/strapi.git
+	url = https://github.com/StynerStiner/strapi.git
 [submodule "05-Programming-Languages/SwiftSketch"]
 	path = 05-Programming-Languages/SwiftSketch
-	url = https://github.com/Styner2023/SwiftSketch.git
+	url = https://github.com/StynerStiner/SwiftSketch.git
 [submodule "05-Programming-Languages/three.js"]
 	path = 05-Programming-Languages/three.js
-	url = https://github.com/Styner2023/three.js.git
+	url = https://github.com/StynerStiner/three.js.git
 [submodule "05-Programming-Languages/unipdf"]
 	path = 05-Programming-Languages/unipdf
-	url = https://github.com/Styner2023/unipdf.git
+	url = https://github.com/StynerStiner/unipdf.git
 [submodule "05-Programming-Languages/VeriGPU"]
 	path = 05-Programming-Languages/VeriGPU
-	url = https://github.com/Styner2023/VeriGPU.git
+	url = https://github.com/StynerStiner/VeriGPU.git
 [submodule "05-Programming-Languages/Walk-In-Clinic-Android-App"]
 	path = 05-Programming-Languages/Walk-In-Clinic-Android-App
-	url = https://github.com/Styner2023/Walk-In-Clinic-Android-App.git
+	url = https://github.com/StynerStiner/Walk-In-Clinic-Android-App.git
 [submodule "06-IBM-and-Course-Work/agfzb-CloudAppDevelopment_Capstone"]
 	path = 06-IBM-and-Course-Work/agfzb-CloudAppDevelopment_Capstone
-	url = https://github.com/Styner2023/agfzb-CloudAppDevelopment_Capstone.git
+	url = https://github.com/StynerStiner/agfzb-CloudAppDevelopment_Capstone.git
 [submodule "06-IBM-and-Course-Work/autogen-beginner-course"]
 	path = 06-IBM-and-Course-Work/autogen-beginner-course
-	url = https://github.com/Styner2023/autogen-beginner-course.git
+	url = https://github.com/StynerStiner/autogen-beginner-course.git
 [submodule "06-IBM-and-Course-Work/Calendra-Course"]
 	path = 06-IBM-and-Course-Work/Calendra-Course
-	url = https://github.com/Styner2023/Calendra-Course.git
+	url = https://github.com/StynerStiner/Calendra-Course.git
 [submodule "06-IBM-and-Course-Work/car-lease-demo"]
 	path = 06-IBM-and-Course-Work/car-lease-demo
-	url = https://github.com/Styner2023/car-lease-demo.git
+	url = https://github.com/StynerStiner/car-lease-demo.git
 [submodule "06-IBM-and-Course-Work/course-fizzi-next"]
 	path = 06-IBM-and-Course-Work/course-fizzi-next
-	url = https://github.com/Styner2023/course-fizzi-next.git
+	url = https://github.com/StynerStiner/course-fizzi-next.git
 [submodule "06-IBM-and-Course-Work/coursera-python-for-everybody-specialization"]
 	path = 06-IBM-and-Course-Work/coursera-python-for-everybody-specialization
-	url = https://github.com/Styner2023/coursera-python-for-everybody-specialization.git
+	url = https://github.com/StynerStiner/coursera-python-for-everybody-specialization.git
 [submodule "06-IBM-and-Course-Work/courses"]
 	path = 06-IBM-and-Course-Work/courses
-	url = https://github.com/Styner2023/courses.git
+	url = https://github.com/StynerStiner/courses.git
 [submodule "06-IBM-and-Course-Work/CPP-Crash-Course"]
 	path = 06-IBM-and-Course-Work/CPP-Crash-Course
-	url = https://github.com/Styner2023/CPP-Crash-Course.git
+	url = https://github.com/StynerStiner/CPP-Crash-Course.git
 [submodule "06-IBM-and-Course-Work/Data-Visualizations-with-IBM-Cognos-and-Excel"]
 	path = 06-IBM-and-Course-Work/Data-Visualizations-with-IBM-Cognos-and-Excel
-	url = https://github.com/Styner2023/Data-Visualizations-with-IBM-Cognos-and-Excel.git
+	url = https://github.com/StynerStiner/Data-Visualizations-with-IBM-Cognos-and-Excel.git
 [submodule "06-IBM-and-Course-Work/Django-Cloud-Project"]
 	path = 06-IBM-and-Course-Work/Django-Cloud-Project
-	url = https://github.com/Styner2023/Django-Cloud-Project.git
+	url = https://github.com/StynerStiner/Django-Cloud-Project.git
 [submodule "06-IBM-and-Course-Work/django-nextjs-backend-api"]
 	path = 06-IBM-and-Course-Work/django-nextjs-backend-api
-	url = https://github.com/Styner2023/django-nextjs-backend-api.git
+	url = https://github.com/StynerStiner/django-nextjs-backend-api.git
 [submodule "06-IBM-and-Course-Work/django-nextjs-frontend"]
 	path = 06-IBM-and-Course-Work/django-nextjs-frontend
-	url = https://github.com/Styner2023/django-nextjs-frontend.git
+	url = https://github.com/StynerStiner/django-nextjs-frontend.git
 [submodule "06-IBM-and-Course-Work/expressBookReviews-1"]
 	path = 06-IBM-and-Course-Work/expressBookReviews-1
-	url = https://github.com/Styner2023/expressBookReviews-1.git
+	url = https://github.com/StynerStiner/expressBookReviews-1.git
 [submodule "06-IBM-and-Course-Work/final-cloud-app-with-database"]
 	path = 06-IBM-and-Course-Work/final-cloud-app-with-database
-	url = https://github.com/Styner2023/final-cloud-app-with-database.git
+	url = https://github.com/StynerStiner/final-cloud-app-with-database.git
 [submodule "06-IBM-and-Course-Work/Final-Project-Emotion-Detector"]
 	path = 06-IBM-and-Course-Work/Final-Project-Emotion-Detector
-	url = https://github.com/Styner2023/Final-Project-Emotion-Detector.git
+	url = https://github.com/StynerStiner/Final-Project-Emotion-Detector.git
 [submodule "06-IBM-and-Course-Work/Full-Stack-Cloud-Dev-Capstone-Project"]
 	path = 06-IBM-and-Course-Work/Full-Stack-Cloud-Dev-Capstone-Project
-	url = https://github.com/Styner2023/Full-Stack-Cloud-Dev-Capstone-Project.git
+	url = https://github.com/StynerStiner/Full-Stack-Cloud-Dev-Capstone-Project.git
 [submodule "06-IBM-and-Course-Work/IBM-Full-Stack-Software-Developer"]
 	path = 06-IBM-and-Course-Work/IBM-Full-Stack-Software-Developer
-	url = https://github.com/Styner2023/IBM-Full-Stack-Software-Developer.git
+	url = https://github.com/StynerStiner/IBM-Full-Stack-Software-Developer.git
 [submodule "06-IBM-and-Course-Work/IBM-full-stack-software-developerz"]
 	path = 06-IBM-and-Course-Work/IBM-full-stack-software-developerz
-	url = https://github.com/Styner2023/IBM-full-stack-software-developerz.git
+	url = https://github.com/StynerStiner/IBM-full-stack-software-developerz.git
 [submodule "06-IBM-and-Course-Work/IBM-Project-car_resale_value"]
 	path = 06-IBM-and-Course-Work/IBM-Project-car_resale_value
-	url = https://github.com/Styner2023/IBM-Project-car_resale_value.git
+	url = https://github.com/StynerStiner/IBM-Project-car_resale_value.git
 [submodule "06-IBM-and-Course-Work/IBMFullStackSoftware"]
 	path = 06-IBM-and-Course-Work/IBMFullStackSoftware
-	url = https://github.com/Styner2023/IBMFullStackSoftware.git
+	url = https://github.com/StynerStiner/IBMFullStackSoftware.git
 [submodule "06-IBM-and-Course-Work/mern-crash-course"]
 	path = 06-IBM-and-Course-Work/mern-crash-course
-	url = https://github.com/Styner2023/mern-crash-course.git
+	url = https://github.com/StynerStiner/mern-crash-course.git
 [submodule "06-IBM-and-Course-Work/ML-YouTube-Courses"]
 	path = 06-IBM-and-Course-Work/ML-YouTube-Courses
-	url = https://github.com/Styner2023/ML-YouTube-Courses.git
+	url = https://github.com/StynerStiner/ML-YouTube-Courses.git
 [submodule "06-IBM-and-Course-Work/Modern-CPP-Programming"]
 	path = 06-IBM-and-Course-Work/Modern-CPP-Programming
-	url = https://github.com/Styner2023/Modern-CPP-Programming.git
+	url = https://github.com/StynerStiner/Modern-CPP-Programming.git
 [submodule "06-IBM-and-Course-Work/Online-Courses-Learning"]
 	path = 06-IBM-and-Course-Work/Online-Courses-Learning
-	url = https://github.com/Styner2023/Online-Courses-Learning.git
+	url = https://github.com/StynerStiner/Online-Courses-Learning.git
 [submodule "06-IBM-and-Course-Work/openshift-on-ibm-cloud-workshops"]
 	path = 06-IBM-and-Course-Work/openshift-on-ibm-cloud-workshops
-	url = https://github.com/Styner2023/openshift-on-ibm-cloud-workshops.git
+	url = https://github.com/StynerStiner/openshift-on-ibm-cloud-workshops.git
 [submodule "06-IBM-and-Course-Work/optimize-procurement-and-inventory-with-ai"]
 	path = 06-IBM-and-Course-Work/optimize-procurement-and-inventory-with-ai
-	url = https://github.com/Styner2023/optimize-procurement-and-inventory-with-ai.git
+	url = https://github.com/StynerStiner/optimize-procurement-and-inventory-with-ai.git
 [submodule "06-IBM-and-Course-Work/Python-for-Data-Science"]
 	path = 06-IBM-and-Course-Work/Python-for-Data-Science
-	url = https://github.com/Styner2023/Python-for-Data-Science.git
+	url = https://github.com/StynerStiner/Python-for-Data-Science.git
 [submodule "06-IBM-and-Course-Work/Python-for-Machine-Learning"]
 	path = 06-IBM-and-Course-Work/Python-for-Machine-Learning
-	url = https://github.com/Styner2023/Python-for-Machine-Learning.git
+	url = https://github.com/StynerStiner/Python-for-Machine-Learning.git
 [submodule "06-IBM-and-Course-Work/pytorch-deep-learning"]
 	path = 06-IBM-and-Course-Work/pytorch-deep-learning
-	url = https://github.com/Styner2023/pytorch-deep-learning.git
+	url = https://github.com/StynerStiner/pytorch-deep-learning.git
 [submodule "06-IBM-and-Course-Work/The-C-20-Masterclass-Source-Code"]
 	path = 06-IBM-and-Course-Work/The-C-20-Masterclass-Source-Code
-	url = https://github.com/Styner2023/The-C-20-Masterclass-Source-Code.git
+	url = https://github.com/StynerStiner/The-C-20-Masterclass-Source-Code.git
 [submodule "06-IBM-and-Course-Work/threejs-portfolio"]
 	path = 06-IBM-and-Course-Work/threejs-portfolio
-	url = https://github.com/Styner2023/threejs-portfolio.git
+	url = https://github.com/StynerStiner/threejs-portfolio.git
 [submodule "06-IBM-and-Course-Work/TSTestCourse"]
 	path = 06-IBM-and-Course-Work/TSTestCourse
-	url = https://github.com/Styner2023/TSTestCourse.git
+	url = https://github.com/StynerStiner/TSTestCourse.git
 [submodule "06-IBM-and-Course-Work/TTS-OLDER"]
 	path = 06-IBM-and-Course-Work/TTS-OLDER
-	url = https://github.com/Styner2023/TTS-OLDER.git
+	url = https://github.com/StynerStiner/TTS-OLDER.git
 [submodule "06-IBM-and-Course-Work/USA-Car-Dealership-with-IBM-Cloud"]
 	path = 06-IBM-and-Course-Work/USA-Car-Dealership-with-IBM-Cloud
-	url = https://github.com/Styner2023/USA-Car-Dealership-with-IBM-Cloud.git
+	url = https://github.com/StynerStiner/USA-Car-Dealership-with-IBM-Cloud.git
 [submodule "06-IBM-and-Course-Work/xrwvm-fullstack_developer_capstone"]
 	path = 06-IBM-and-Course-Work/xrwvm-fullstack_developer_capstone
-	url = https://github.com/Styner2023/xrwvm-fullstack_developer_capstone.git
+	url = https://github.com/StynerStiner/xrwvm-fullstack_developer_capstone.git
 [submodule "06-IBM-and-Course-Work/YouTube-Sonny--Ai-Agent-Langchain-langgraph-convex-clerk-ibm-wxtools-nextjs15"]
 	path = 06-IBM-and-Course-Work/YouTube-Sonny--Ai-Agent-Langchain-langgraph-convex-clerk-ibm-wxtools-nextjs15
-	url = https://github.com/Styner2023/YouTube-Sonny--Ai-Agent-Langchain-langgraph-convex-clerk-ibm-wxtools-nextjs15.git
+	url = https://github.com/StynerStiner/YouTube-Sonny--Ai-Agent-Langchain-langgraph-convex-clerk-ibm-wxtools-nextjs15.git
 [submodule "07-DevOps-and-Tools/ai-podcast-clipper-saas"]
 	path = 07-DevOps-and-Tools/ai-podcast-clipper-saas
-	url = https://github.com/Styner2023/ai-podcast-clipper-saas.git
+	url = https://github.com/StynerStiner/ai-podcast-clipper-saas.git
 [submodule "07-DevOps-and-Tools/aider"]
 	path = 07-DevOps-and-Tools/aider
-	url = https://github.com/Styner2023/aider.git
+	url = https://github.com/StynerStiner/aider.git
 [submodule "07-DevOps-and-Tools/automq"]
 	path = 07-DevOps-and-Tools/automq
-	url = https://github.com/Styner2023/automq.git
+	url = https://github.com/StynerStiner/automq.git
 [submodule "07-DevOps-and-Tools/bizgen"]
 	path = 07-DevOps-and-Tools/bizgen
-	url = https://github.com/Styner2023/bizgen.git
+	url = https://github.com/StynerStiner/bizgen.git
 [submodule "07-DevOps-and-Tools/cli"]
 	path = 07-DevOps-and-Tools/cli
-	url = https://github.com/Styner2023/cli.git
+	url = https://github.com/StynerStiner/cli.git
 [submodule "07-DevOps-and-Tools/Dotnet-Postgres-Docker"]
 	path = 07-DevOps-and-Tools/Dotnet-Postgres-Docker
-	url = https://github.com/Styner2023/Dotnet-Postgres-Docker.git
+	url = https://github.com/StynerStiner/Dotnet-Postgres-Docker.git
 [submodule "07-DevOps-and-Tools/file_maintenance_clipped"]
 	path = 07-DevOps-and-Tools/file_maintenance_clipped
-	url = https://github.com/Styner2023/file_maintenance_clipped.git
+	url = https://github.com/StynerStiner/file_maintenance_clipped.git
 [submodule "07-DevOps-and-Tools/firmware"]
 	path = 07-DevOps-and-Tools/firmware
-	url = https://github.com/Styner2023/firmware.git
+	url = https://github.com/StynerStiner/firmware.git
 [submodule "07-DevOps-and-Tools/git-code-playground"]
 	path = 07-DevOps-and-Tools/git-code-playground
-	url = https://github.com/Styner2023/git-code-playground.git
+	url = https://github.com/StynerStiner/git-code-playground.git
 [submodule "07-DevOps-and-Tools/github-readme-stats"]
 	path = 07-DevOps-and-Tools/github-readme-stats
-	url = https://github.com/Styner2023/github-readme-stats.git
+	url = https://github.com/StynerStiner/github-readme-stats.git
 [submodule "07-DevOps-and-Tools/gitness"]
 	path = 07-DevOps-and-Tools/gitness
-	url = https://github.com/Styner2023/gitness.git
+	url = https://github.com/StynerStiner/gitness.git
 [submodule "07-DevOps-and-Tools/jj"]
 	path = 07-DevOps-and-Tools/jj
-	url = https://github.com/Styner2023/jj.git
+	url = https://github.com/StynerStiner/jj.git
 [submodule "07-DevOps-and-Tools/mkdb"]
 	path = 07-DevOps-and-Tools/mkdb
-	url = https://github.com/Styner2023/mkdb.git
+	url = https://github.com/StynerStiner/mkdb.git
 [submodule "07-DevOps-and-Tools/oblivion-desktop"]
 	path = 07-DevOps-and-Tools/oblivion-desktop
-	url = https://github.com/Styner2023/oblivion-desktop.git
+	url = https://github.com/StynerStiner/oblivion-desktop.git
 [submodule "07-DevOps-and-Tools/paperclip"]
 	path = 07-DevOps-and-Tools/paperclip
-	url = https://github.com/Styner2023/paperclip.git
+	url = https://github.com/StynerStiner/paperclip.git
 [submodule "07-DevOps-and-Tools/resume.github.com"]
 	path = 07-DevOps-and-Tools/resume.github.com
-	url = https://github.com/Styner2023/resume.github.com.git
+	url = https://github.com/StynerStiner/resume.github.com.git
 [submodule "07-DevOps-and-Tools/servers"]
 	path = 07-DevOps-and-Tools/servers
-	url = https://github.com/Styner2023/servers.git
+	url = https://github.com/StynerStiner/servers.git
 [submodule "07-DevOps-and-Tools/shotgun_code"]
 	path = 07-DevOps-and-Tools/shotgun_code
-	url = https://github.com/Styner2023/shotgun_code.git
+	url = https://github.com/StynerStiner/shotgun_code.git
 [submodule "07-DevOps-and-Tools/sidecar"]
 	path = 07-DevOps-and-Tools/sidecar
-	url = https://github.com/Styner2023/sidecar.git
+	url = https://github.com/StynerStiner/sidecar.git
 [submodule "07-DevOps-and-Tools/skill-icons"]
 	path = 07-DevOps-and-Tools/skill-icons
-	url = https://github.com/Styner2023/skill-icons.git
+	url = https://github.com/StynerStiner/skill-icons.git
 [submodule "07-DevOps-and-Tools/SnipSaveCLI"]
 	path = 07-DevOps-and-Tools/SnipSaveCLI
-	url = https://github.com/Styner2023/SnipSaveCLI.git
+	url = https://github.com/StynerStiner/SnipSaveCLI.git
 [submodule "07-DevOps-and-Tools/theia"]
 	path = 07-DevOps-and-Tools/theia
-	url = https://github.com/Styner2023/theia.git
+	url = https://github.com/StynerStiner/theia.git
 [submodule "07-DevOps-and-Tools/vscode"]
 	path = 07-DevOps-and-Tools/vscode
-	url = https://github.com/Styner2023/vscode.git
+	url = https://github.com/StynerStiner/vscode.git
 [submodule "07-DevOps-and-Tools/vscode-extension"]
 	path = 07-DevOps-and-Tools/vscode-extension
-	url = https://github.com/Styner2023/vscode-extension.git
+	url = https://github.com/StynerStiner/vscode-extension.git
 [submodule "07-DevOps-and-Tools/vscode-live-server"]
 	path = 07-DevOps-and-Tools/vscode-live-server
-	url = https://github.com/Styner2023/vscode-live-server.git
+	url = https://github.com/StynerStiner/vscode-live-server.git
 [submodule "07-DevOps-and-Tools/vscode-plugin"]
 	path = 07-DevOps-and-Tools/vscode-plugin
-	url = https://github.com/Styner2023/vscode-plugin.git
+	url = https://github.com/StynerStiner/vscode-plugin.git
 [submodule "08-Cybersecurity-and-OSINT/ai-artifacts"]
 	path = 08-Cybersecurity-and-OSINT/ai-artifacts
-	url = https://github.com/Styner2023/ai-artifacts.git
+	url = https://github.com/StynerStiner/ai-artifacts.git
 [submodule "08-Cybersecurity-and-OSINT/claude-leaked-files"]
 	path = 08-Cybersecurity-and-OSINT/claude-leaked-files
-	url = https://github.com/Styner2023/claude-leaked-files.git
+	url = https://github.com/StynerStiner/claude-leaked-files.git
 [submodule "08-Cybersecurity-and-OSINT/datasploit"]
 	path = 08-Cybersecurity-and-OSINT/datasploit
-	url = https://github.com/Styner2023/datasploit.git
+	url = https://github.com/StynerStiner/datasploit.git
 [submodule "08-Cybersecurity-and-OSINT/Discord-Token-Grabber-V2"]
 	path = 08-Cybersecurity-and-OSINT/Discord-Token-Grabber-V2
-	url = https://github.com/Styner2023/Discord-Token-Grabber-V2.git
+	url = https://github.com/StynerStiner/Discord-Token-Grabber-V2.git
 [submodule "08-Cybersecurity-and-OSINT/Face-Detection_Model-HackRx2.0"]
 	path = 08-Cybersecurity-and-OSINT/Face-Detection_Model-HackRx2.0
-	url = https://github.com/Styner2023/Face-Detection_Model-HackRx2.0.git
+	url = https://github.com/StynerStiner/Face-Detection_Model-HackRx2.0.git
 [submodule "08-Cybersecurity-and-OSINT/Hazard-Token-Grabber-v2"]
 	path = 08-Cybersecurity-and-OSINT/Hazard-Token-Grabber-v2
-	url = https://github.com/Styner2023/Hazard-Token-Grabber-v2.git
+	url = https://github.com/StynerStiner/Hazard-Token-Grabber-v2.git
 [submodule "08-Cybersecurity-and-OSINT/Hazard-Token-Grabber.v2"]
 	path = 08-Cybersecurity-and-OSINT/Hazard-Token-Grabber.v2
-	url = https://github.com/Styner2023/Hazard-Token-Grabber.v2.git
+	url = https://github.com/StynerStiner/Hazard-Token-Grabber.v2.git
 [submodule "08-Cybersecurity-and-OSINT/MegaMedusa"]
 	path = 08-Cybersecurity-and-OSINT/MegaMedusa
-	url = https://github.com/Styner2023/MegaMedusa.git
+	url = https://github.com/StynerStiner/MegaMedusa.git
 [submodule "08-Cybersecurity-and-OSINT/netspionage"]
 	path = 08-Cybersecurity-and-OSINT/netspionage
-	url = https://github.com/Styner2023/netspionage.git
+	url = https://github.com/StynerStiner/netspionage.git
 [submodule "08-Cybersecurity-and-OSINT/osint_stuff_tool_collection"]
 	path = 08-Cybersecurity-and-OSINT/osint_stuff_tool_collection
-	url = https://github.com/Styner2023/osint_stuff_tool_collection.git
+	url = https://github.com/StynerStiner/osint_stuff_tool_collection.git
 [submodule "08-Cybersecurity-and-OSINT/pangolin"]
 	path = 08-Cybersecurity-and-OSINT/pangolin
-	url = https://github.com/Styner2023/pangolin.git
+	url = https://github.com/StynerStiner/pangolin.git
 [submodule "08-Cybersecurity-and-OSINT/ResumeX"]
 	path = 08-Cybersecurity-and-OSINT/ResumeX
-	url = https://github.com/Styner2023/ResumeX.git
+	url = https://github.com/StynerStiner/ResumeX.git
 [submodule "08-Cybersecurity-and-OSINT/SecLists"]
 	path = 08-Cybersecurity-and-OSINT/SecLists
-	url = https://github.com/Styner2023/SecLists.git
+	url = https://github.com/StynerStiner/SecLists.git
 [submodule "08-Cybersecurity-and-OSINT/sherlock"]
 	path = 08-Cybersecurity-and-OSINT/sherlock
-	url = https://github.com/Styner2023/sherlock.git
+	url = https://github.com/StynerStiner/sherlock.git
 [submodule "08-Cybersecurity-and-OSINT/token-grabber"]
 	path = 08-Cybersecurity-and-OSINT/token-grabber
-	url = https://github.com/Styner2023/token-grabber.git
+	url = https://github.com/StynerStiner/token-grabber.git
 [submodule "08-Cybersecurity-and-OSINT/tokencost"]
 	path = 08-Cybersecurity-and-OSINT/tokencost
-	url = https://github.com/Styner2023/tokencost.git
+	url = https://github.com/StynerStiner/tokencost.git
 [submodule "08-Cybersecurity-and-OSINT/union"]
 	path = 08-Cybersecurity-and-OSINT/union
-	url = https://github.com/Styner2023/union.git
+	url = https://github.com/StynerStiner/union.git
 [submodule "08-Cybersecurity-and-OSINT/VOID"]
 	path = 08-Cybersecurity-and-OSINT/VOID
-	url = https://github.com/Styner2023/VOID.git
+	url = https://github.com/StynerStiner/VOID.git
 [submodule "09-Other/31-day-challenge-ai"]
 	path = 09-Other/31-day-challenge-ai
-	url = https://github.com/Styner2023/31-day-challenge-ai.git
+	url = https://github.com/StynerStiner/31-day-challenge-ai.git
 [submodule "09-Other/ACS-1100-Intro-to-Programming"]
 	path = 09-Other/ACS-1100-Intro-to-Programming
-	url = https://github.com/Styner2023/ACS-1100-Intro-to-Programming.git
+	url = https://github.com/StynerStiner/ACS-1100-Intro-to-Programming.git
 [submodule "09-Other/acs3110"]
 	path = 09-Other/acs3110
-	url = https://github.com/Styner2023/acs3110.git
+	url = https://github.com/StynerStiner/acs3110.git
 [submodule "09-Other/ai-hedge-fund"]
 	path = 09-Other/ai-hedge-fund
-	url = https://github.com/Styner2023/ai-hedge-fund.git
+	url = https://github.com/StynerStiner/ai-hedge-fund.git
 [submodule "09-Other/ai-tracker"]
 	path = 09-Other/ai-tracker
-	url = https://github.com/Styner2023/ai-tracker.git
+	url = https://github.com/StynerStiner/ai-tracker.git
 [submodule "09-Other/aide"]
 	path = 09-Other/aide
-	url = https://github.com/Styner2023/aide.git
+	url = https://github.com/StynerStiner/aide.git
 [submodule "09-Other/aider.nvim"]
 	path = 09-Other/aider.nvim
-	url = https://github.com/Styner2023/aider.nvim.git
+	url = https://github.com/StynerStiner/aider.nvim.git
 [submodule "09-Other/amplication"]
 	path = 09-Other/amplication
-	url = https://github.com/Styner2023/amplication.git
+	url = https://github.com/StynerStiner/amplication.git
 [submodule "09-Other/animated-spoon-second-project"]
 	path = 09-Other/animated-spoon-second-project
-	url = https://github.com/Styner2023/animated-spoon-second-project.git
+	url = https://github.com/StynerStiner/animated-spoon-second-project.git
 [submodule "09-Other/ATS-Friendly-Resume-Tips"]
 	path = 09-Other/ATS-Friendly-Resume-Tips
-	url = https://github.com/Styner2023/ATS-Friendly-Resume-Tips.git
+	url = https://github.com/StynerStiner/ATS-Friendly-Resume-Tips.git
 [submodule "09-Other/atsresume"]
 	path = 09-Other/atsresume
-	url = https://github.com/Styner2023/atsresume.git
+	url = https://github.com/StynerStiner/atsresume.git
 [submodule "09-Other/BarBabyFitness-main"]
 	path = 09-Other/BarBabyFitness-main
-	url = https://github.com/Styner2023/BarBabyFitness-main.git
+	url = https://github.com/StynerStiner/BarBabyFitness-main.git
 [submodule "09-Other/BBDN-BlackboardData-Queries"]
 	path = 09-Other/BBDN-BlackboardData-Queries
-	url = https://github.com/Styner2023/BBDN-BlackboardData-Queries.git
+	url = https://github.com/StynerStiner/BBDN-BlackboardData-Queries.git
 [submodule "09-Other/beginner-projects"]
 	path = 09-Other/beginner-projects
-	url = https://github.com/Styner2023/beginner-projects.git
+	url = https://github.com/StynerStiner/beginner-projects.git
 [submodule "09-Other/blender-plugin"]
 	path = 09-Other/blender-plugin
-	url = https://github.com/Styner2023/blender-plugin.git
+	url = https://github.com/StynerStiner/blender-plugin.git
 [submodule "09-Other/blog"]
 	path = 09-Other/blog
-	url = https://github.com/Styner2023/blog.git
+	url = https://github.com/StynerStiner/blog.git
 [submodule "09-Other/BMAD-METHOD"]
 	path = 09-Other/BMAD-METHOD
-	url = https://github.com/Styner2023/BMAD-METHOD.git
+	url = https://github.com/StynerStiner/BMAD-METHOD.git
 [submodule "09-Other/BodyParts3D"]
 	path = 09-Other/BodyParts3D
-	url = https://github.com/Styner2023/BodyParts3D.git
+	url = https://github.com/StynerStiner/BodyParts3D.git
 [submodule "09-Other/C2SP"]
 	path = 09-Other/C2SP
-	url = https://github.com/Styner2023/C2SP.git
+	url = https://github.com/StynerStiner/C2SP.git
 [submodule "09-Other/car_dealership"]
 	path = 09-Other/car_dealership
-	url = https://github.com/Styner2023/car_dealership.git
+	url = https://github.com/StynerStiner/car_dealership.git
 [submodule "09-Other/carbon-lang"]
 	path = 09-Other/carbon-lang
-	url = https://github.com/Styner2023/carbon-lang.git
+	url = https://github.com/StynerStiner/carbon-lang.git
 [submodule "09-Other/ChipGAN"]
 	path = 09-Other/ChipGAN
-	url = https://github.com/Styner2023/ChipGAN.git
+	url = https://github.com/StynerStiner/ChipGAN.git
 [submodule "09-Other/code_contests"]
 	path = 09-Other/code_contests
-	url = https://github.com/Styner2023/code_contests.git
+	url = https://github.com/StynerStiner/code_contests.git
 [submodule "09-Other/code_snippets"]
 	path = 09-Other/code_snippets
-	url = https://github.com/Styner2023/code_snippets.git
+	url = https://github.com/StynerStiner/code_snippets.git
 [submodule "09-Other/Coding_the_matrix"]
 	path = 09-Other/Coding_the_matrix
-	url = https://github.com/Styner2023/Coding_the_matrix.git
+	url = https://github.com/StynerStiner/Coding_the_matrix.git
 [submodule "09-Other/Competitive-Programming-Contest-Solved-Problems"]
 	path = 09-Other/Competitive-Programming-Contest-Solved-Problems
-	url = https://github.com/Styner2023/Competitive-Programming-Contest-Solved-Problems.git
+	url = https://github.com/StynerStiner/Competitive-Programming-Contest-Solved-Problems.git
 [submodule "09-Other/computer-science"]
 	path = 09-Other/computer-science
-	url = https://github.com/Styner2023/computer-science.git
+	url = https://github.com/StynerStiner/computer-science.git
 [submodule "09-Other/coolify"]
 	path = 09-Other/coolify
-	url = https://github.com/Styner2023/coolify.git
+	url = https://github.com/StynerStiner/coolify.git
 [submodule "09-Other/crewAI-examples"]
 	path = 09-Other/crewAI-examples
-	url = https://github.com/Styner2023/crewAI-examples.git
+	url = https://github.com/StynerStiner/crewAI-examples.git
 [submodule "09-Other/daylight"]
 	path = 09-Other/daylight
-	url = https://github.com/Styner2023/daylight.git
+	url = https://github.com/StynerStiner/daylight.git
 [submodule "09-Other/decentralized-fiverr"]
 	path = 09-Other/decentralized-fiverr
-	url = https://github.com/Styner2023/decentralized-fiverr.git
+	url = https://github.com/StynerStiner/decentralized-fiverr.git
 [submodule "09-Other/Depth-Anything-V2"]
 	path = 09-Other/Depth-Anything-V2
-	url = https://github.com/Styner2023/Depth-Anything-V2.git
+	url = https://github.com/StynerStiner/Depth-Anything-V2.git
 [submodule "09-Other/devdocs"]
 	path = 09-Other/devdocs
-	url = https://github.com/Styner2023/devdocs.git
+	url = https://github.com/StynerStiner/devdocs.git
 [submodule "09-Other/Devon"]
 	path = 09-Other/Devon
-	url = https://github.com/Styner2023/Devon.git
+	url = https://github.com/StynerStiner/Devon.git
 [submodule "09-Other/documentation"]
 	path = 09-Other/documentation
-	url = https://github.com/Styner2023/documentation.git
+	url = https://github.com/StynerStiner/documentation.git
 [submodule "09-Other/dotfiles"]
 	path = 09-Other/dotfiles
-	url = https://github.com/Styner2023/dotfiles.git
+	url = https://github.com/StynerStiner/dotfiles.git
 [submodule "09-Other/DreamBerd"]
 	path = 09-Other/DreamBerd
-	url = https://github.com/Styner2023/DreamBerd.git
+	url = https://github.com/StynerStiner/DreamBerd.git
 [submodule "09-Other/example-portfolio"]
 	path = 09-Other/example-portfolio
-	url = https://github.com/Styner2023/example-portfolio.git
+	url = https://github.com/StynerStiner/example-portfolio.git
 [submodule "09-Other/fastapi"]
 	path = 09-Other/fastapi
-	url = https://github.com/Styner2023/fastapi.git
+	url = https://github.com/StynerStiner/fastapi.git
 [submodule "09-Other/FinRL-Trading"]
 	path = 09-Other/FinRL-Trading
-	url = https://github.com/Styner2023/FinRL-Trading.git
+	url = https://github.com/StynerStiner/FinRL-Trading.git
 [submodule "09-Other/flathunter"]
 	path = 09-Other/flathunter
-	url = https://github.com/Styner2023/flathunter.git
+	url = https://github.com/StynerStiner/flathunter.git
 [submodule "09-Other/Game-development"]
 	path = 09-Other/Game-development
-	url = https://github.com/Styner2023/Game-development.git
+	url = https://github.com/StynerStiner/Game-development.git
 [submodule "09-Other/generative-ai-demos"]
 	path = 09-Other/generative-ai-demos
-	url = https://github.com/Styner2023/generative-ai-demos.git
+	url = https://github.com/StynerStiner/generative-ai-demos.git
 [submodule "09-Other/ghost-core"]
 	path = 09-Other/ghost-core
-	url = https://github.com/Styner2023/ghost-core.git
+	url = https://github.com/StynerStiner/ghost-core.git
 [submodule "09-Other/ghpages"]
 	path = 09-Other/ghpages
-	url = https://github.com/Styner2023/ghpages.git
+	url = https://github.com/StynerStiner/ghpages.git
 [submodule "09-Other/gltf-pipeline"]
 	path = 09-Other/gltf-pipeline
-	url = https://github.com/Styner2023/gltf-pipeline.git
+	url = https://github.com/StynerStiner/gltf-pipeline.git
 [submodule "09-Other/Grant_Rostig_C_-Plus-Plus-_123"]
 	path = 09-Other/Grant_Rostig_C_-Plus-Plus-_123
-	url = https://github.com/Styner2023/Grant_Rostig_C_-Plus-Plus-_123.git
+	url = https://github.com/StynerStiner/Grant_Rostig_C_-Plus-Plus-_123.git
 [submodule "09-Other/graph-composer"]
 	path = 09-Other/graph-composer
-	url = https://github.com/Styner2023/graph-composer.git
+	url = https://github.com/StynerStiner/graph-composer.git
 [submodule "09-Other/grok-1"]
 	path = 09-Other/grok-1
-	url = https://github.com/Styner2023/grok-1.git
+	url = https://github.com/StynerStiner/grok-1.git
 [submodule "09-Other/grok3-api"]
 	path = 09-Other/grok3-api
-	url = https://github.com/Styner2023/grok3-api.git
+	url = https://github.com/StynerStiner/grok3-api.git
 [submodule "09-Other/hangman"]
 	path = 09-Other/hangman
-	url = https://github.com/Styner2023/hangman.git
+	url = https://github.com/StynerStiner/hangman.git
 [submodule "09-Other/helicone"]
 	path = 09-Other/helicone
-	url = https://github.com/Styner2023/helicone.git
+	url = https://github.com/StynerStiner/helicone.git
 [submodule "09-Other/kaizen"]
 	path = 09-Other/kaizen
-	url = https://github.com/Styner2023/kaizen.git
+	url = https://github.com/StynerStiner/kaizen.git
 [submodule "09-Other/karma-viewport"]
 	path = 09-Other/karma-viewport
-	url = https://github.com/Styner2023/karma-viewport.git
+	url = https://github.com/StynerStiner/karma-viewport.git
 [submodule "09-Other/linux"]
 	path = 09-Other/linux
-	url = https://github.com/Styner2023/linux.git
+	url = https://github.com/StynerStiner/linux.git
 [submodule "09-Other/longformer"]
 	path = 09-Other/longformer
-	url = https://github.com/Styner2023/longformer.git
+	url = https://github.com/StynerStiner/longformer.git
 [submodule "09-Other/Lumo"]
 	path = 09-Other/Lumo
-	url = https://github.com/Styner2023/Lumo.git
+	url = https://github.com/StynerStiner/Lumo.git
 [submodule "09-Other/lz4"]
 	path = 09-Other/lz4
-	url = https://github.com/Styner2023/lz4.git
+	url = https://github.com/StynerStiner/lz4.git
 [submodule "09-Other/marvelcomicsgenerator"]
 	path = 09-Other/marvelcomicsgenerator
-	url = https://github.com/Styner2023/marvelcomicsgenerator.git
+	url = https://github.com/StynerStiner/marvelcomicsgenerator.git
 [submodule "09-Other/MathBlackBox"]
 	path = 09-Other/MathBlackBox
-	url = https://github.com/Styner2023/MathBlackBox.git
+	url = https://github.com/StynerStiner/MathBlackBox.git
 [submodule "09-Other/mern-ecommerce"]
 	path = 09-Other/mern-ecommerce
-	url = https://github.com/Styner2023/mern-ecommerce.git
+	url = https://github.com/StynerStiner/mern-ecommerce.git
 [submodule "09-Other/mern-netflix-clone"]
 	path = 09-Other/mern-netflix-clone
-	url = https://github.com/Styner2023/mern-netflix-clone.git
+	url = https://github.com/StynerStiner/mern-netflix-clone.git
 [submodule "09-Other/METIS"]
 	path = 09-Other/METIS
-	url = https://github.com/Styner2023/METIS.git
+	url = https://github.com/StynerStiner/METIS.git
 [submodule "09-Other/micrograd"]
 	path = 09-Other/micrograd
-	url = https://github.com/Styner2023/micrograd.git
+	url = https://github.com/StynerStiner/micrograd.git
 [submodule "09-Other/minesweeper"]
 	path = 09-Other/minesweeper
-	url = https://github.com/Styner2023/minesweeper.git
+	url = https://github.com/StynerStiner/minesweeper.git
 [submodule "09-Other/minio"]
 	path = 09-Other/minio
-	url = https://github.com/Styner2023/minio.git
+	url = https://github.com/StynerStiner/minio.git
 [submodule "09-Other/misc2"]
 	path = 09-Other/misc2
-	url = https://github.com/Styner2023/misc2.git
+	url = https://github.com/StynerStiner/misc2.git
 [submodule "09-Other/MoA"]
 	path = 09-Other/MoA
-	url = https://github.com/Styner2023/MoA.git
+	url = https://github.com/StynerStiner/MoA.git
 [submodule "09-Other/MoneyPrinterV2"]
 	path = 09-Other/MoneyPrinterV2
-	url = https://github.com/Styner2023/MoneyPrinterV2.git
+	url = https://github.com/StynerStiner/MoneyPrinterV2.git
 [submodule "09-Other/My-Stuff-To-Share"]
 	path = 09-Other/My-Stuff-To-Share
-	url = https://github.com/Styner2023/My-Stuff-To-Share.git
+	url = https://github.com/StynerStiner/My-Stuff-To-Share.git
 [submodule "09-Other/Neovim-from-scratch"]
 	path = 09-Other/Neovim-from-scratch
-	url = https://github.com/Styner2023/Neovim-from-scratch.git
+	url = https://github.com/StynerStiner/Neovim-from-scratch.git
 [submodule "09-Other/Noi"]
 	path = 09-Other/Noi
-	url = https://github.com/Styner2023/Noi.git
+	url = https://github.com/StynerStiner/Noi.git
 [submodule "09-Other/nvda"]
 	path = 09-Other/nvda
-	url = https://github.com/Styner2023/nvda.git
+	url = https://github.com/StynerStiner/nvda.git
 [submodule "09-Other/oaqjp-final-project-emb-ai"]
 	path = 09-Other/oaqjp-final-project-emb-ai
-	url = https://github.com/Styner2023/oaqjp-final-project-emb-ai.git
+	url = https://github.com/StynerStiner/oaqjp-final-project-emb-ai.git
 [submodule "09-Other/Official-Character-Pack-v2-for-Ultimate-Alliance"]
 	path = 09-Other/Official-Character-Pack-v2-for-Ultimate-Alliance
-	url = https://github.com/Styner2023/Official-Character-Pack-v2-for-Ultimate-Alliance.git
+	url = https://github.com/StynerStiner/Official-Character-Pack-v2-for-Ultimate-Alliance.git
 [submodule "09-Other/open-source-survey"]
 	path = 09-Other/open-source-survey
-	url = https://github.com/Styner2023/open-source-survey.git
+	url = https://github.com/StynerStiner/open-source-survey.git
 [submodule "09-Other/OpenClap-Format"]
 	path = 09-Other/OpenClap-Format
-	url = https://github.com/Styner2023/OpenClap-Format.git
+	url = https://github.com/StynerStiner/OpenClap-Format.git
 [submodule "09-Other/OpenCRISPR"]
 	path = 09-Other/OpenCRISPR
-	url = https://github.com/Styner2023/OpenCRISPR.git
+	url = https://github.com/StynerStiner/OpenCRISPR.git
 [submodule "09-Other/OpenGlass"]
 	path = 09-Other/OpenGlass
-	url = https://github.com/Styner2023/OpenGlass.git
+	url = https://github.com/StynerStiner/OpenGlass.git
 [submodule "09-Other/openrouteservice"]
 	path = 09-Other/openrouteservice
-	url = https://github.com/Styner2023/openrouteservice.git
+	url = https://github.com/StynerStiner/openrouteservice.git
 [submodule "09-Other/openwifi"]
 	path = 09-Other/openwifi
-	url = https://github.com/Styner2023/openwifi.git
+	url = https://github.com/StynerStiner/openwifi.git
 [submodule "09-Other/plura-production"]
 	path = 09-Other/plura-production
-	url = https://github.com/Styner2023/plura-production.git
+	url = https://github.com/StynerStiner/plura-production.git
 [submodule "09-Other/pocketbase"]
 	path = 09-Other/pocketbase
-	url = https://github.com/Styner2023/pocketbase.git
+	url = https://github.com/StynerStiner/pocketbase.git
 [submodule "09-Other/podcastr"]
 	path = 09-Other/podcastr
-	url = https://github.com/Styner2023/podcastr.git
+	url = https://github.com/StynerStiner/podcastr.git
 [submodule "09-Other/pre-signed-put-url"]
 	path = 09-Other/pre-signed-put-url
-	url = https://github.com/Styner2023/pre-signed-put-url.git
+	url = https://github.com/StynerStiner/pre-signed-put-url.git
 [submodule "09-Other/ProgrammingPrinciplesAndPracticeUsingQt"]
 	path = 09-Other/ProgrammingPrinciplesAndPracticeUsingQt
-	url = https://github.com/Styner2023/ProgrammingPrinciplesAndPracticeUsingQt.git
+	url = https://github.com/StynerStiner/ProgrammingPrinciplesAndPracticeUsingQt.git
 [submodule "09-Other/Resume-Matcher"]
 	path = 09-Other/Resume-Matcher
-	url = https://github.com/Styner2023/Resume-Matcher.git
+	url = https://github.com/StynerStiner/Resume-Matcher.git
 [submodule "09-Other/reveal.js-copycode"]
 	path = 09-Other/reveal.js-copycode
-	url = https://github.com/Styner2023/reveal.js-copycode.git
+	url = https://github.com/StynerStiner/reveal.js-copycode.git
 [submodule "09-Other/rive-wasm"]
 	path = 09-Other/rive-wasm
-	url = https://github.com/Styner2023/rive-wasm.git
+	url = https://github.com/StynerStiner/rive-wasm.git
 [submodule "09-Other/rover-resume"]
 	path = 09-Other/rover-resume
-	url = https://github.com/Styner2023/rover-resume.git
+	url = https://github.com/StynerStiner/rover-resume.git
 [submodule "09-Other/s3-direct-upload"]
 	path = 09-Other/s3-direct-upload
-	url = https://github.com/Styner2023/s3-direct-upload.git
+	url = https://github.com/StynerStiner/s3-direct-upload.git
 [submodule "09-Other/s3-get-put-and-delete"]
 	path = 09-Other/s3-get-put-and-delete
-	url = https://github.com/Styner2023/s3-get-put-and-delete.git
+	url = https://github.com/StynerStiner/s3-get-put-and-delete.git
 [submodule "09-Other/sanitize"]
 	path = 09-Other/sanitize
-	url = https://github.com/Styner2023/sanitize.git
+	url = https://github.com/StynerStiner/sanitize.git
 [submodule "09-Other/see-non-printable-characters"]
 	path = 09-Other/see-non-printable-characters
-	url = https://github.com/Styner2023/see-non-printable-characters.git
+	url = https://github.com/StynerStiner/see-non-printable-characters.git
 [submodule "09-Other/seminar"]
 	path = 09-Other/seminar
-	url = https://github.com/Styner2023/seminar.git
+	url = https://github.com/StynerStiner/seminar.git
 [submodule "09-Other/sketch-threejs"]
 	path = 09-Other/sketch-threejs
-	url = https://github.com/Styner2023/sketch-threejs.git
+	url = https://github.com/StynerStiner/sketch-threejs.git
 [submodule "09-Other/sketchrip"]
 	path = 09-Other/sketchrip
-	url = https://github.com/Styner2023/sketchrip.git
+	url = https://github.com/StynerStiner/sketchrip.git
 [submodule "09-Other/spotify-clone"]
 	path = 09-Other/spotify-clone
-	url = https://github.com/Styner2023/spotify-clone.git
+	url = https://github.com/StynerStiner/spotify-clone.git
 [submodule "09-Other/spotify-microservice-project-2025"]
 	path = 09-Other/spotify-microservice-project-2025
-	url = https://github.com/Styner2023/spotify-microservice-project-2025.git
+	url = https://github.com/StynerStiner/spotify-microservice-project-2025.git
 [submodule "09-Other/StudyBud"]
 	path = 09-Other/StudyBud
-	url = https://github.com/Styner2023/StudyBud.git
+	url = https://github.com/StynerStiner/StudyBud.git
 [submodule "09-Other/sudoku"]
 	path = 09-Other/sudoku
-	url = https://github.com/Styner2023/sudoku.git
+	url = https://github.com/StynerStiner/sudoku.git
 [submodule "09-Other/Sudoku-main"]
 	path = 09-Other/Sudoku-main
-	url = https://github.com/Styner2023/Sudoku-main.git
+	url = https://github.com/StynerStiner/Sudoku-main.git
 [submodule "09-Other/Teaching"]
 	path = 09-Other/Teaching
-	url = https://github.com/Styner2023/Teaching.git
+	url = https://github.com/StynerStiner/Teaching.git
 [submodule "09-Other/terraform-best-practice"]
 	path = 09-Other/terraform-best-practice
-	url = https://github.com/Styner2023/terraform-best-practice.git
+	url = https://github.com/StynerStiner/terraform-best-practice.git
 [submodule "09-Other/the-story-writer"]
 	path = 09-Other/the-story-writer
-	url = https://github.com/Styner2023/the-story-writer.git
+	url = https://github.com/StynerStiner/the-story-writer.git
 [submodule "09-Other/threejs-sketchfab-example"]
 	path = 09-Other/threejs-sketchfab-example
-	url = https://github.com/Styner2023/threejs-sketchfab-example.git
+	url = https://github.com/StynerStiner/threejs-sketchfab-example.git
 [submodule "09-Other/tic-tac-toe"]
 	path = 09-Other/tic-tac-toe
-	url = https://github.com/Styner2023/tic-tac-toe.git
+	url = https://github.com/StynerStiner/tic-tac-toe.git
 [submodule "09-Other/Tms-software"]
 	path = 09-Other/Tms-software
-	url = https://github.com/Styner2023/Tms-software.git
+	url = https://github.com/StynerStiner/Tms-software.git
 [submodule "09-Other/tmux-sessionx"]
 	path = 09-Other/tmux-sessionx
-	url = https://github.com/Styner2023/tmux-sessionx.git
+	url = https://github.com/StynerStiner/tmux-sessionx.git
 [submodule "09-Other/ToDoFlutter"]
 	path = 09-Other/ToDoFlutter
-	url = https://github.com/Styner2023/ToDoFlutter.git
+	url = https://github.com/StynerStiner/ToDoFlutter.git
 [submodule "09-Other/ToonCrafter"]
 	path = 09-Other/ToonCrafter
-	url = https://github.com/Styner2023/ToonCrafter.git
+	url = https://github.com/StynerStiner/ToonCrafter.git
 [submodule "09-Other/twitter-clone"]
 	path = 09-Other/twitter-clone
-	url = https://github.com/Styner2023/twitter-clone.git
+	url = https://github.com/StynerStiner/twitter-clone.git
 [submodule "09-Other/twitter-to-bluesky"]
 	path = 09-Other/twitter-to-bluesky
-	url = https://github.com/Styner2023/twitter-to-bluesky.git
+	url = https://github.com/StynerStiner/twitter-to-bluesky.git
 [submodule "09-Other/typing-gym"]
 	path = 09-Other/typing-gym
-	url = https://github.com/Styner2023/typing-gym.git
+	url = https://github.com/StynerStiner/typing-gym.git
 [submodule "09-Other/viewer-api"]
 	path = 09-Other/viewer-api
-	url = https://github.com/Styner2023/viewer-api.git
+	url = https://github.com/StynerStiner/viewer-api.git
 [submodule "09-Other/vimrc"]
 	path = 09-Other/vimrc
-	url = https://github.com/Styner2023/vimrc.git
+	url = https://github.com/StynerStiner/vimrc.git
 [submodule "09-Other/virtual-art-gallery"]
 	path = 09-Other/virtual-art-gallery
-	url = https://github.com/Styner2023/virtual-art-gallery.git
+	url = https://github.com/StynerStiner/virtual-art-gallery.git
 [submodule "09-Other/visitor-badge"]
 	path = 09-Other/visitor-badge
-	url = https://github.com/Styner2023/visitor-badge.git
+	url = https://github.com/StynerStiner/visitor-badge.git
 [submodule "09-Other/wtecc-CICD_PracticeCode"]
 	path = 09-Other/wtecc-CICD_PracticeCode
-	url = https://github.com/Styner2023/wtecc-CICD_PracticeCode.git
+	url = https://github.com/StynerStiner/wtecc-CICD_PracticeCode.git
 [submodule "09-Other/Yi"]
 	path = 09-Other/Yi
-	url = https://github.com/Styner2023/Yi.git
+	url = https://github.com/StynerStiner/Yi.git
 [submodule "09-Other/zzrjt-practice-project-emb-ai"]
 	path = 09-Other/zzrjt-practice-project-emb-ai
-	url = https://github.com/Styner2023/zzrjt-practice-project-emb-ai.git
+	url = https://github.com/StynerStiner/zzrjt-practice-project-emb-ai.git
